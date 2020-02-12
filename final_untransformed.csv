@@ -1,0 +1,715 @@
+Sex,Age,Eng1,Math1,Phy1,Chem1,Bio1,Eng2,Math2,Phy2,Chem2,Bio2,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Eng3,Math3,Phy3,Chem3,Bio3
+M,17.0,61.0,47.0,50.0,47.0,63.0,60.0,34.0,59.0,47.0,36.0,Satisfactory,Mother Only,5000-10000,Degree,Yes,2.5-3,Civil Servant,Yes,66.0,47.0,47.0,47.0,81.0
+F,17.0,63.0,53.0,67.0,59.0,70.0,68.0,62.0,84.0,55.0,59.0,Satisfactory,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,65.0,40.0,47.0,54.0,70.0
+M,16.0,77.0,51.0,58.0,50.0,67.0,79.0,47.0,64.0,52.0,49.0,Satisfactory,Mother Only,More Than 20000,Degree,Yes,3-3.5,Trading,No,55.0,45.0,58.0,57.0,50.0
+M,18.0,87.0,46.0,60.0,53.0,74.0,89.0,45.0,62.0,41.0,48.0,Good,Mother and Father,5000-10000,Degree,No,3.5-4,Trading,Yes,83.0,56.0,59.0,54.0,73.0
+F,16.0,68.0,51.0,60.0,53.0,72.0,76.0,51.0,65.0,53.0,48.0,Good,Mother and Father,10000-20000,High School,Yes,2.5-3,Civil Servant,Yes,56.0,54.0,54.0,52.0,81.0
+F,18.0,68.0,57.0,75.0,61.0,78.0,72.0,62.0,64.0,56.0,69.0,Good,Mother and Father,5000-10000,High School,No,3-3.5,Trading,Yes,63.0,57.0,55.0,60.0,96.0
+M,17.0,71.0,42.0,65.0,51.0,57.0,69.0,50.0,68.0,26.0,56.0,Good,Mother and Father,5000-10000,Degree,No,2.5-3,Civil Servant,Yes,55.0,48.0,48.0,43.0,65.0
+F,17.0,60.0,50.0,56.0,55.0,59.0,55.0,62.0,63.0,64.0,58.0,Good,Mother Only,Less Than 5000,High SchoolDropout,No,3-3.5,Civil Servant,Yes,79.0,57.0,47.0,55.0,55.0
+M,19.0,68.0,40.0,55.0,58.0,61.0,75.0,44.0,64.0,67.0,56.0,Satisfactory,Mother and Father,Less Than 5000,High SchoolDropout,No,3-3.5,Military,Yes,56.0,56.0,55.0,40.0,77.0
+F,18.0,65.0,51.0,51.0,55.0,42.0,82.0,52.0,66.0,52.0,44.0,Good,Mother and Father,5000-10000,High SchoolDropout,No,2.5-3,Trading,Yes,53.0,55.0,50.0,43.0,76.0
+F,19.0,85.0,55.0,61.0,46.0,69.0,84.0,42.0,69.0,54.0,55.0,Good,Mother and Father,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,75.0,59.0,60.0,60.0,83.0
+F,16.0,79.0,52.0,55.0,66.0,70.0,81.0,52.0,66.0,60.0,48.0,Very Good,Mother and Father,5000-10000,High School,Yes,3-3.5,Military,Yes,72.0,53.0,54.0,48.0,76.0
+M,16.0,58.0,47.0,64.0,48.0,64.0,66.0,47.0,70.0,52.0,45.0,Very Good,Mother and Father,Less Than 5000,High School,Yes,2.5-3,Military,Yes,61.0,49.0,46.0,49.0,78.0
+M,19.0,65.0,80.0,81.0,69.0,85.0,80.0,70.0,78.0,56.0,65.0,Good,Other Relatives,Less Than 5000,High SchoolDropout,No,3-3.5,Artisan,Yes,84.0,55.0,53.0,49.0,71.0
+M,16.0,53.0,43.0,62.0,62.0,74.0,73.0,62.0,77.0,63.0,52.0,Good,Siblings,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,No,65.0,50.0,55.0,55.0,66.0
+F,17.0,68.0,51.0,55.0,60.0,50.0,65.0,51.0,62.0,59.0,51.0,Satisfactory,Father Only,10000-20000,Degree,Yes,3-3.5,Trading,Yes,55.0,43.0,53.0,46.0,69.0
+F,17.0,57.0,50.0,51.0,53.0,53.0,74.0,53.0,62.0,61.0,41.0,Satisfactory,Mother and Father,More Than 20000,Degree,No,3-3.5,Trading,Yes,60.0,61.0,57.0,44.0,79.0
+F,17.0,73.0,54.0,53.0,52.0,68.0,84.0,45.0,67.0,54.0,49.0,Good,Mother Only,More Than 20000,Degree,No,3.5-4,Trading,No,69.0,50.0,54.0,43.0,83.0
+F,18.0,66.0,58.0,71.0,73.0,77.0,77.0,53.0,69.0,74.0,63.0,Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,67.0,52.0,58.0,66.0,67.0
+M,18.0,71.0,47.0,57.0,44.0,56.0,69.0,41.0,68.0,41.0,34.0,Good,Mother Only,10000-20000,Masters,No,3-3.5,Artisan,Yes,60.0,46.0,50.0,46.0,64.0
+M,17.0,63.0,56.0,61.0,58.0,60.0,69.0,62.0,69.0,59.0,47.0,Satisfactory,Mother and Father,5000-10000,Degree,No,2.5-3,Trading,Yes,59.0,51.0,54.0,53.0,82.0
+F,15.0,78.0,55.0,73.0,71.0,84.0,67.0,55.0,64.0,70.0,69.0,Very Good,Mother and Father,5000-10000,Masters,No,2.5-3,Civil Servant,Yes,68.0,60.0,59.0,63.0,79.0
+F,17.0,70.0,46.0,55.0,53.0,59.0,75.0,54.0,67.0,55.0,47.0,Satisfactory,Mother and Father,More Than 20000,Degree,No,3-3.5,Trading,Yes,70.0,56.0,46.0,51.0,65.0
+F,16.0,63.0,47.0,55.0,50.0,53.0,72.0,42.0,64.0,51.0,47.0,Excellent,Mother Only,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,64.0,54.0,58.0,55.0,87.0
+M,18.0,71.0,52.0,56.0,45.0,63.0,72.0,52.0,66.0,56.0,48.0,Satisfactory,I Live Alone,Less Than 5000,High SchoolDropout,Yes,2.5-3,Military,No,61.0,44.0,45.0,46.0,79.0
+F,18.0,56.0,50.0,60.0,63.0,64.0,70.0,54.0,69.0,54.0,49.0,Good,Mother Only,5000-10000,Diploma,Yes,3-3.5,Trading,Yes,54.0,54.0,51.0,50.0,79.0
+M,17.0,67.0,50.0,63.0,70.0,69.0,72.0,53.0,67.0,61.0,53.0,Good,Mother and Father,5000-10000,High School,Yes,3.5-4,Trading,Yes,58.0,52.0,44.0,49.0,86.0
+F,17.0,50.0,52.0,59.0,52.0,45.0,62.0,52.0,61.0,59.0,46.0,Very Good,Mother and Father,Less Than 5000,Diploma,Yes,2.5-3,Civil Servant,Yes,50.0,48.0,40.0,49.0,60.0
+F,17.0,56.0,52.0,55.0,55.0,67.0,81.0,57.0,65.0,63.0,51.0,Satisfactory,Mother and Father,5000-10000,High School,Yes,3-3.5,Trading,Yes,55.0,47.0,48.0,46.0,79.0
+M,20.0,59.0,67.0,63.0,54.0,47.0,72.0,55.0,53.0,59.0,72.0,Good,Mother Only,5000-10000,Masters,Yes,2.5-3,Civil Servant,Yes,75.0,60.0,48.0,59.0,81.0
+M,17.0,62.0,47.0,61.0,57.0,62.0,85.0,51.0,43.0,47.0,70.0,Good,Mother Only,10000-20000,Diploma,No,2.5-3,Artisan,Yes,66.0,60.0,42.0,55.0,69.0
+F,16.0,52.0,51.0,64.0,50.0,61.0,77.0,59.0,63.0,56.0,74.0,Excellent,Other Relatives,5000-10000,Diploma,No,2-2.5,Civil Servant,Yes,56.0,48.0,47.0,57.0,86.0
+M,17.0,59.0,54.0,50.0,50.0,46.0,78.0,65.0,51.0,57.0,71.0,Excellent,Father Only,Less Than 5000,No Education,No,3-3.5,Trading,No,59.0,59.0,45.0,51.0,77.0
+M,17.0,83.0,93.0,98.0,85.0,94.0,95.0,94.0,94.0,91.0,91.0,Good,Mother and Father,10000-20000,Diploma,No,3.5-4,Civil Servant,Yes,85.0,83.0,83.0,76.0,84.0
+F,17.0,59.0,50.0,53.0,65.0,60.0,85.0,65.0,64.0,62.0,70.0,Excellent,Mother Only,5000-10000,No Education,Yes,3-3.5,Civil Servant,Yes,54.0,63.0,63.0,52.0,88.0
+M,17.0,56.0,48.0,53.0,61.0,58.0,87.0,62.0,70.0,62.0,71.0,Good,Mother and Father,5000-10000,No Education,No,3-3.5,Civil Servant,No,65.0,65.0,64.0,58.0,86.0
+F,17.0,57.0,51.0,51.0,57.0,67.0,87.0,63.0,62.0,56.0,70.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,54.0,61.0,60.0,55.0,83.0
+F,17.0,70.0,45.0,55.0,63.0,62.0,82.0,68.0,70.0,56.0,72.0,Good,Mother and Father,More Than 20000,No Education,No,3-3.5,Military,Yes,61.0,53.0,39.0,56.0,86.0
+F,16.0,53.0,50.0,51.0,50.0,53.0,69.0,62.0,50.0,58.0,65.0,Very Good,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,59.0,57.0,43.0,49.0,84.0
+F,17.0,61.0,47.0,58.0,59.0,61.0,70.0,66.0,55.0,57.0,58.0,Very Good,Mother and Father,5000-10000,Degree,No,3-3.5,Trading,Yes,54.0,51.0,50.0,54.0,51.0
+M,16.0,64.0,39.0,64.0,67.0,65.0,83.0,71.0,75.0,61.0,55.0,Good,Mother and Father,10000-20000,Masters,Yes,3-3.5,Civil Servant,Yes,56.0,57.0,52.0,57.0,67.0
+F,17.0,56.0,46.0,45.0,60.0,57.0,86.0,63.0,66.0,56.0,69.0,Good,Mother and Father,More Than 20000,Degree,Yes,3-3.5,Civil Servant,Yes,40.0,60.0,53.0,48.0,77.0
+F,16.0,66.0,43.0,50.0,58.0,57.0,86.0,64.0,65.0,52.0,74.0,Good,Mother and Father,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,63.0,55.0,48.0,52.0,85.0
+F,16.0,55.0,38.0,45.0,50.0,42.0,71.0,70.0,59.0,58.0,73.0,Good,Mother and Father,10000-20000,High School,Yes,2.5-3,Civil Servant,Yes,57.0,61.0,49.0,53.0,88.0
+F,16.0,58.0,42.0,58.0,55.0,44.0,56.0,50.0,53.0,53.0,69.0,Very Good,Other Relatives,Less Than 5000,Masters,No,2.5-3,Civil Servant,Yes,46.0,52.0,51.0,46.0,71.0
+F,18.0,64.0,36.0,50.0,60.0,47.0,85.0,63.0,44.0,59.0,47.0,Good,Mother Only,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,50.0,60.0,41.0,37.0,74.0
+M,17.0,57.0,42.0,60.0,59.0,53.0,64.0,53.0,60.0,60.0,66.0,Good,Siblings,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,52.0,53.0,48.0,43.0,83.0
+M,17.0,60.0,42.0,50.0,52.0,52.0,81.0,65.0,72.0,51.0,72.0,Very Good,Mother and Father,10000-20000,Masters,Yes,3-3.5,Civil Servant,Yes,51.0,57.0,51.0,49.0,78.0
+F,16.0,81.0,46.0,42.0,58.0,57.0,83.0,56.0,55.0,60.0,70.0,Satisfactory,Mother and Father,Less Than 5000,Degree,No,3.5-4,Civil Servant,Yes,64.0,58.0,48.0,50.0,86.0
+F,17.0,58.0,43.0,53.0,44.0,56.0,80.0,58.0,66.0,55.0,73.0,Good,Mother Only,Less Than 5000,Degree,No,3-3.5,Civil Servant,No,50.0,55.0,54.0,51.0,82.0
+F,15.0,74.0,50.0,50.0,58.0,54.0,82.0,63.0,44.0,48.0,64.0,Excellent,Mother and Father,5000-10000,Degree,Yes,3.5-4,Civil Servant,Yes,56.0,61.0,50.0,59.0,87.0
+F,17.0,55.0,50.0,50.0,54.0,55.0,80.0,61.0,50.0,53.0,63.0,Very Good,Mother Only,More Than 20000,Masters,Yes,2.5-3,Trading,Yes,60.0,59.0,45.0,59.0,74.0
+F,16.0,50.0,37.0,51.0,50.0,48.0,82.0,65.0,50.0,52.0,64.0,Good,Mother Only,Less Than 5000,Diploma,No,3-3.5,Civil Servant,Yes,59.0,55.0,51.0,46.0,78.0
+F,17.0,59.0,43.0,56.0,57.0,54.0,84.0,70.0,67.0,59.0,71.0,Good,Mother and Father,5000-10000,High School,No,2.5-3,Trading,Yes,57.0,48.0,53.0,52.0,92.0
+M,16.0,67.0,57.0,70.0,69.0,55.0,83.0,69.0,72.0,67.0,66.0,Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,63.0,56.0,56.0,42.0,86.0
+F,16.0,64.0,57.0,70.0,61.0,66.0,73.0,70.0,71.0,58.0,47.0,Good,Siblings,5000-10000,Degree,Yes,3-3.5,Trading,Yes,63.0,70.0,62.0,57.0,68.0
+M,18.0,69.0,41.0,54.0,53.0,45.0,76.0,59.0,64.0,56.0,69.0,Very Good,Mother Only,5000-10000,High School,Yes,3.5-4,Civil Servant,Yes,55.0,59.0,58.0,53.0,79.0
+M,18.0,83.0,78.0,78.0,84.0,92.0,74.0,70.0,81.0,78.0,84.0,Very Good,Mother and Father,Less Than 5000,Degree,Yes,3.5-4,Trading,Yes,55.0,68.0,69.0,66.0,71.0
+F,17.0,65.0,70.0,74.0,66.0,63.0,63.0,54.0,70.0,70.0,43.0,Very Good,Siblings,More Than 20000,High School,No,2.5-3,Civil Servant,Yes,58.0,59.0,55.0,57.0,79.0
+F,17.0,53.0,66.0,65.0,54.0,2.0,63.0,52.0,58.0,56.0,43.0,Excellent,Siblings,10000-20000,Degree,Yes,2.5-3,Civil Servant,Yes,47.0,56.0,46.0,54.0,70.0
+M,18.0,55.0,60.0,59.0,55.0,45.0,65.0,41.0,53.0,56.0,40.0,Very Good,Mother Only,More Than 20000,PhD,Yes,2-2.5,Trading,Yes,51.0,60.0,52.0,46.0,69.0
+M,16.0,58.0,59.0,52.0,61.0,46.0,69.0,50.0,44.0,47.0,49.0,Good,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Artisan,Yes,45.0,56.0,45.0,52.0,69.0
+M,16.0,62.0,52.0,43.0,51.0,51.0,59.0,38.0,56.0,48.0,49.0,Excellent,Mother and Father,More Than 20000,Diploma,Yes,2.5-3,Trading,Yes,51.0,63.0,54.0,50.0,72.0
+F,17.0,64.0,83.0,96.0,76.0,74.0,78.0,82.0,73.0,82.0,57.0,Very Good,Mother and Father,5000-10000,Masters,No,2.5-3,Artisan,Yes,58.0,65.0,65.0,75.0,70.0
+F,17.0,44.0,65.0,67.0,58.0,52.0,63.0,30.0,52.0,51.0,44.0,Satisfactory,Mother and Father,5000-10000,Degree,No,3-3.5,Military,No,50.0,54.0,45.0,42.0,69.0
+F,19.0,60.0,82.0,82.0,80.0,76.0,73.0,72.0,60.0,55.0,57.0,Very Good,Other Relatives,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,51.0,49.0,46.0,58.0,69.0
+F,16.0,61.0,56.0,51.0,57.0,50.0,67.0,54.0,46.0,49.0,38.0,Good,Mother and Father,Less Than 5000,High SchoolDropout,No,3-3.5,Civil Servant,Yes,58.0,67.0,47.0,58.0,62.0
+M,16.0,52.0,47.0,55.0,50.0,50.0,42.0,45.0,50.0,50.0,40.0,Very Good,Mother and Father,5000-10000,Masters,No,3.5-4,Trading,Yes,48.0,56.0,44.0,52.0,65.0
+F,18.0,57.0,50.0,50.0,50.0,43.0,60.0,45.0,51.0,54.0,50.0,Excellent,Mother and Father,Less Than 5000,No Education,No,3.5-4,Trading,Yes,48.0,54.0,55.0,51.0,59.0
+M,16.0,60.0,53.0,52.0,50.0,51.0,62.0,48.0,57.0,56.0,46.0,Very Good,Mother and Father,5000-10000,Degree,No,3-3.5,Trading,Yes,48.0,59.0,44.0,56.0,75.0
+F,18.0,59.0,61.0,70.0,62.0,59.0,70.0,67.0,63.0,62.0,48.0,Good,Mother and Father,5000-10000,Degree,No,2.5-3,Trading,Yes,58.0,62.0,46.0,56.0,86.0
+F,18.0,60.0,50.0,52.0,56.0,54.0,60.0,45.0,39.0,51.0,42.0,Very Good,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,50.0,67.0,51.0,55.0,78.0
+F,17.0,57.0,54.0,63.0,65.0,64.0,73.0,60.0,62.0,67.0,59.0,Excellent,Mother Only,Less Than 5000,Diploma,No,2.5-3,Civil Servant,Yes,60.0,67.0,58.0,53.0,84.0
+M,17.0,55.0,70.0,80.0,82.0,82.0,69.0,80.0,85.0,84.0,78.0,Very Good,Siblings,Less Than 5000,Degree,No,2.5-3,Civil Servant,Yes,60.0,76.0,62.0,81.0,82.0
+F,17.0,55.0,51.0,57.0,65.0,43.0,62.0,43.0,56.0,59.0,46.0,Good,Mother and Father,Less Than 5000,High SchoolDropout,Yes,3-3.5,Civil Servant,Yes,45.0,41.0,46.0,44.0,76.0
+F,17.0,58.0,50.0,52.0,66.0,49.0,54.0,52.0,47.0,44.0,44.0,Good,Mother Only,Less Than 5000,High School,No,3-3.5,Trading,Yes,58.0,34.0,43.0,50.0,70.0
+M,17.0,58.0,41.0,44.0,52.0,62.0,56.0,53.0,61.0,66.0,38.0,Very Good,Mother and Father,Less Than 5000,PhD,Yes,3.5-4,Military,Yes,62.0,55.0,48.0,48.0,65.0
+M,17.0,52.0,45.0,18.0,48.0,55.0,62.0,50.0,48.0,61.0,42.0,Very Good,Mother and Father,5000-10000,High School,Yes,2.5-3,Civil Servant,No,58.0,56.0,48.0,51.0,65.0
+M,16.0,66.0,59.0,56.0,74.0,78.0,74.0,65.0,78.0,85.0,88.0,Excellent,Mother and Father,More Than 20000,Masters,Yes,3-3.5,Trading,No,86.0,79.0,61.0,81.0,91.0
+F,16.0,60.0,50.0,49.0,62.0,62.0,65.0,50.0,49.0,69.0,33.0,Satisfactory,Mother Only,10000-20000,Degree,Yes,3-3.5,Trading,Yes,78.0,67.0,59.0,50.0,68.0
+M,16.0,61.0,37.0,45.0,57.0,54.0,70.0,49.0,65.0,69.0,31.0,Very Good,Mother and Father,10000-20000,Degree,Yes,3-3.5,Civil Servant,No,62.0,61.0,49.0,42.0,69.0
+F,16.0,54.0,50.0,41.0,56.0,58.0,70.0,53.0,57.0,69.0,48.0,Very Good,Mother and Father,10000-20000,Degree,Yes,3-3.5,Civil Servant,No,60.0,57.0,57.0,46.0,70.0
+F,16.0,59.0,41.0,42.0,58.0,67.0,59.0,53.0,50.0,69.0,43.0,Good,Father Only,Less Than 5000,High School,Yes,2-2.5,Trading,No,62.0,53.0,51.0,50.0,78.0
+M,16.0,73.0,71.0,59.0,80.0,95.0,81.0,72.0,80.0,94.0,88.0,Satisfactory,Mother and Father,Less Than 5000,High School,No,3.5-4,Trading,Yes,86.0,90.0,79.0,93.0,92.0
+F,17.0,44.0,45.0,49.0,62.0,81.0,56.0,52.0,49.0,57.0,29.0,Good,Mother and Father,More Than 20000,Masters,Yes,3-3.5,Artisan,Yes,59.0,47.0,38.0,41.0,32.0
+M,16.0,50.0,50.0,26.0,57.0,64.0,31.0,50.0,47.0,59.0,33.0,Good,Mother and Father,More Than 20000,Degree,Yes,2.5-3,Trading,Yes,59.0,68.0,38.0,44.0,57.0
+M,18.0,73.0,38.0,46.0,54.0,45.0,59.0,52.0,52.0,66.0,36.0,Excellent,Mother Only,More Than 20000,Degree,Yes,3.5-4,Trading,Yes,57.0,56.0,44.0,48.0,75.0
+F,18.0,64.0,41.0,40.0,61.0,65.0,65.0,53.0,56.0,66.0,44.0,Satisfactory,Siblings,5000-10000,Masters,No,3.5-4,Civil Servant,Yes,50.0,70.0,44.0,48.0,75.0
+F,18.0,60.0,52.0,42.0,58.0,62.0,52.0,42.0,42.0,59.0,21.0,Satisfactory,Mother and Father,Less Than 5000,Masters,No,3-3.5,Military,No,60.0,34.0,41.0,38.0,41.0
+F,17.0,65.0,39.0,51.0,67.0,58.0,49.0,50.0,58.0,61.0,21.0,Excellent,Mother Only,10000-20000,Diploma,Yes,2-2.5,Civil Servant,Yes,60.0,74.0,56.0,51.0,74.0
+M,16.0,49.0,50.0,50.0,64.0,70.0,65.0,46.0,63.0,72.0,45.0,Good,Mother and Father,5000-10000,Diploma,Yes,2.5-3,Artisan,Yes,60.0,77.0,60.0,53.0,69.0
+M,17.0,55.0,50.0,48.0,55.0,65.0,56.0,41.0,50.0,62.0,43.0,Good,Mother Only,Less Than 5000,High School,No,3-3.5,Civil Servant,Yes,58.0,73.0,45.0,42.0,66.0
+M,16.0,51.0,41.0,42.0,63.0,54.0,61.0,44.0,40.0,64.0,38.0,Good,Mother Only,5000-10000,Masters,No,3-3.5,Trading,No,59.0,52.0,39.0,47.0,75.0
+M,21.0,62.0,40.0,33.0,47.0,48.0,50.0,47.0,45.0,65.0,29.0,Satisfactory,I Live Alone,More Than 20000,High School,No,3.5-4,Military,No,62.0,55.0,41.0,48.0,66.0
+M,17.0,74.0,44.0,51.0,62.0,73.0,78.0,46.0,65.0,70.0,60.0,Good,Mother and Father,More Than 20000,Degree,No,3-3.5,Trading,Yes,88.0,86.0,72.0,66.0,84.0
+F,17.0,59.0,40.0,45.0,51.0,37.0,44.0,50.0,42.0,61.0,32.0,Excellent,Mother and Father,5000-10000,Diploma,Yes,3-3.5,Military,Yes,67.0,72.0,55.0,46.0,60.0
+F,16.0,63.0,60.0,59.0,65.0,69.0,63.0,55.0,60.0,65.0,54.0,Excellent,Father Only,5000-10000,High School,Yes,3-3.5,Military,Yes,60.0,62.0,54.0,50.0,46.0
+M,16.0,62.0,50.0,43.0,60.0,62.0,58.0,52.0,52.0,67.0,40.0,Good,Mother and Father,5000-10000,Degree,Yes,2.5-3,Trading,Yes,62.0,58.0,45.0,46.0,63.0
+F,17.0,64.0,50.0,50.0,62.0,67.0,66.0,55.0,56.0,66.0,44.0,Good,Father Only,Less Than 5000,Masters,No,3.5-4,Military,No,63.0,50.0,45.0,50.0,52.0
+M,18.0,64.0,57.0,33.0,68.0,64.0,49.0,46.0,42.0,62.0,26.0,Good,Father Only,Less Than 5000,High SchoolDropout,No,3-3.5,Trading,No,84.0,46.0,44.0,44.0,27.0
+M,17.0,80.0,95.0,90.0,85.0,95.0,63.0,47.0,60.0,79.0,40.0,Good,Siblings,5000-10000,High SchoolDropout,Yes,3.5-4,Trading,No,54.0,56.0,53.0,48.0,62.0
+M,17.0,54.0,42.0,29.0,42.0,59.0,58.0,58.0,60.0,29.0,40.0,Good,I Live Alone,More Than 20000,Degree,No,2.5-3,Artisan,Yes,53.0,46.0,40.0,43.0,20.0
+F,17.0,63.0,44.0,50.0,65.0,64.0,72.0,52.0,58.0,60.0,50.0,Very Good,Mother and Father,Less Than 5000,Degree,No,3.5-4,Civil Servant,Yes,56.0,51.0,68.0,61.0,66.0
+F,16.0,54.0,50.0,56.0,59.0,75.0,64.0,62.0,54.0,59.0,63.0,Very Good,Mother Only,5000-10000,Diploma,Yes,3-3.5,Artisan,Yes,58.0,51.0,64.0,56.0,73.0
+M,17.0,61.0,50.0,67.0,60.0,62.0,73.0,59.0,80.0,64.0,53.0,Good,Siblings,5000-10000,Degree,Yes,2-2.5,Artisan,Yes,53.0,57.0,73.0,48.0,76.0
+M,17.0,63.0,57.0,51.0,51.0,78.0,77.0,56.0,76.0,65.0,50.0,Satisfactory,Mother Only,More Than 20000,No Education,Yes,2.5-3,Trading,Yes,52.0,66.0,65.0,41.0,63.0
+F,17.0,61.0,45.0,54.0,53.0,62.0,74.0,57.0,62.0,51.0,38.0,Very Good,Mother and Father,10000-20000,PhD,Yes,2.5-3,Civil Servant,Yes,56.0,61.0,64.0,55.0,84.0
+F,16.0,57.0,41.0,45.0,48.0,63.0,68.0,55.0,66.0,54.0,39.0,Very Good,Mother Only,10000-20000,No Education,Yes,2.5-3,Civil Servant,Yes,55.0,50.0,50.0,52.0,62.0
+M,17.0,55.0,42.0,59.0,47.0,56.0,59.0,48.0,59.0,55.0,46.0,Excellent,Siblings,10000-20000,Masters,No,3-3.5,Artisan,No,51.0,50.0,54.0,50.0,63.0
+F,18.0,64.0,54.0,37.0,58.0,61.0,72.0,67.0,88.0,70.0,60.0,Satisfactory,Mother Only,5000-10000,Degree,No,3-3.5,Trading,Yes,81.0,70.0,57.0,65.0,77.0
+F,17.0,69.0,43.0,35.0,19.0,59.0,63.0,44.0,66.0,29.0,40.0,Excellent,Father Only,5000-10000,Masters,No,3-3.5,Artisan,Yes,54.0,47.0,47.0,42.0,58.0
+M,17.0,67.0,50.0,52.0,51.0,77.0,62.0,55.0,55.0,51.0,40.0,Satisfactory,Mother Only,5000-10000,Degree,No,2.5-3,Trading,Yes,55.0,50.0,70.0,34.0,79.0
+F,17.0,55.0,50.0,36.0,49.0,62.0,74.0,57.0,62.0,36.0,37.0,Good,Mother and Father,10000-20000,Degree,No,3.5-4,Military,Yes,55.0,52.0,58.0,47.0,63.0
+M,19.0,62.0,53.0,53.0,63.0,68.0,58.0,58.0,67.0,62.0,44.0,Excellent,Mother Only,5000-10000,Diploma,Yes,2.5-3,Trading,Yes,52.0,47.0,59.0,45.0,53.0
+F,19.0,61.0,43.0,55.0,46.0,63.0,73.0,58.0,74.0,59.0,62.0,Good,Mother and Father,5000-10000,Masters,Yes,3-3.5,Artisan,No,56.0,67.0,63.0,50.0,43.0
+M,16.0,66.0,44.0,63.0,57.0,61.0,69.0,50.0,74.0,53.0,40.0,Good,Mother and Father,5000-10000,Masters,No,3-3.5,Military,Yes,60.0,56.0,50.0,48.0,66.0
+F,17.0,79.0,51.0,59.0,64.0,72.0,81.0,57.0,75.0,71.0,74.0,Good,Siblings,5000-10000,High SchoolDropout,No,3-3.5,Trading,Yes,80.0,70.0,59.0,54.0,85.0
+F,16.0,57.0,42.0,52.0,55.0,51.0,51.0,53.0,57.0,61.0,56.0,Good,Mother Only,5000-10000,No Education,No,3-3.5,Artisan,Yes,58.0,79.0,62.0,46.0,64.0
+F,17.0,62.0,45.0,50.0,49.0,56.0,67.0,55.0,73.0,51.0,58.0,Good,Mother and Father,5000-10000,High School,No,2.5-3,Trading,Yes,52.0,73.0,62.0,46.0,66.0
+F,17.0,67.0,50.0,62.0,42.0,62.0,71.0,56.0,67.0,51.0,53.0,Very Good,Mother Only,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,54.0,71.0,56.0,54.0,71.0
+F,17.0,63.0,43.0,52.0,55.0,62.0,68.0,40.0,69.0,35.0,39.0,Good,Mother and Father,5000-10000,High School,Yes,3-3.5,Trading,Yes,62.0,51.0,46.0,44.0,70.0
+F,17.0,60.0,43.0,53.0,52.0,67.0,78.0,58.0,70.0,52.0,51.0,Satisfactory,Mother and Father,10000-20000,No Education,Yes,3-3.5,Trading,Yes,57.0,50.0,60.0,45.0,66.0
+M,17.0,45.0,34.0,52.0,39.0,30.0,54.0,50.0,57.0,27.0,31.0,Good,Mother and Father,10000-20000,Masters,Yes,3.5-4,Civil Servant,Yes,85.0,93.0,92.0,91.0,93.0
+M,17.0,59.0,40.0,41.0,54.0,54.0,62.0,56.0,52.0,65.0,22.0,Very Good,Mother and Father,5000-10000,Degree,No,3.5-4,Military,Yes,54.0,38.0,56.0,44.0,47.0
+M,17.0,69.0,35.0,43.0,34.0,59.0,47.0,55.0,46.0,53.0,50.0,Very Good,Mother and Father,5000-10000,Degree,No,3.5-4,Military,Yes,58.0,52.0,57.0,48.0,72.0
+F,16.0,67.0,50.0,57.0,61.0,56.0,68.0,55.0,76.0,70.0,54.0,Good,I Live Alone,5000-10000,Diploma,Yes,3-3.5,Trading,No,84.0,65.0,63.0,68.0,77.0
+M,16.0,52.0,44.0,41.0,59.0,55.0,54.0,46.0,78.0,62.0,35.0,Very Good,Mother Only,Less Than 5000,High School,Yes,3.5-4,Military,Yes,51.0,50.0,48.0,50.0,60.0
+M,17.0,50.0,67.0,58.0,63.0,55.0,69.0,56.0,61.0,69.0,37.0,Very Good,Mother and Father,Less Than 5000,Degree,No,2.5-3,Civil Servant,Yes,53.0,60.0,45.0,50.0,74.0
+M,16.0,51.0,54.0,52.0,58.0,43.0,52.0,56.0,76.0,52.0,36.0,Excellent,Mother and Father,Less Than 5000,No Education,Yes,2-2.5,Civil Servant,Yes,53.0,45.0,43.0,50.0,56.0
+M,17.0,85.0,54.0,62.0,63.0,58.0,80.0,54.0,83.0,58.0,60.0,Good,Mother and Father,5000-10000,Masters,No,3.5-4,Civil Servant,Yes,68.0,50.0,56.0,60.0,56.0
+F,18.0,47.0,57.0,63.0,65.0,48.0,57.0,63.0,72.0,67.0,52.0,Good,Mother and Father,Less Than 5000,High SchoolDropout,Yes,3-3.5,Civil Servant,No,40.0,55.0,60.0,58.0,61.0
+F,18.0,46.0,43.0,48.0,54.0,50.0,45.0,48.0,46.0,55.0,28.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,56.0,50.0,42.0,55.0,52.0
+M,21.0,45.0,46.0,57.0,39.0,85.0,35.0,53.0,43.0,56.0,25.0,Excellent,Mother and Father,10000-20000,Degree,Yes,2.5-3,Civil Servant,Yes,40.0,58.0,66.0,60.0,45.0
+F,17.0,54.0,61.0,63.0,66.0,69.0,62.0,67.0,66.0,69.0,54.0,Good,Mother and Father,Less Than 5000,High School,Yes,3-3.5,Trading,Yes,81.0,83.0,66.0,61.0,82.0
+M,17.0,67.0,50.0,34.0,50.0,57.0,62.0,52.0,84.0,66.0,47.0,Excellent,Siblings,Less Than 5000,Degree,Yes,3.5-4,Civil Servant,Yes,71.0,69.0,51.0,66.0,70.0
+M,16.0,50.0,44.0,49.0,42.0,45.0,72.0,56.0,63.0,58.0,28.0,Good,Mother and Father,5000-10000,Degree,Yes,3.5-4,Civil Servant,Yes,59.0,41.0,44.0,45.0,60.0
+M,16.0,68.0,57.0,68.0,74.0,56.0,72.0,52.0,84.0,70.0,56.0,Very Good,Mother and Father,5000-10000,Masters,Yes,3-3.5,Civil Servant,Yes,51.0,60.0,50.0,57.0,74.0
+F,16.0,48.0,50.0,58.0,50.0,48.0,59.0,54.0,61.0,56.0,58.0,Very Good,Mother and Father,Less Than 5000,High SchoolDropout,Yes,2.5-3,Trading,Yes,62.0,77.0,57.0,59.0,72.0
+F,16.0,57.0,50.0,47.0,55.0,62.0,61.0,56.0,64.0,69.0,60.0,Very Good,Mother Only,Less Than 5000,High SchoolDropout,No,3-3.5,Trading,Yes,55.0,45.0,50.0,60.0,65.0
+M,16.0,44.0,40.0,49.0,49.0,43.0,54.0,50.0,46.0,61.0,31.0,Very Good,Mother Only,10000-20000,PhD,No,3-3.5,Military,Yes,53.0,79.0,35.0,66.0,44.0
+F,17.0,47.0,54.0,64.0,67.0,55.0,47.0,54.0,64.0,67.0,55.0,Good,Mother and Father,5000-10000,High School,No,3.5-4,Trading,Yes,45.0,50.0,60.0,65.0,54.0
+F,16.0,89.0,65.0,71.0,75.0,75.0,89.0,73.0,74.0,82.0,67.0,Very Good,Mother and Father,10000-20000,Degree,No,3-3.5,Civil Servant,Yes,82.0,86.0,63.0,73.0,85.0
+M,18.0,53.0,50.0,52.0,56.0,42.0,60.0,55.0,52.0,61.0,54.0,Good,Other Relatives,Less Than 5000,Diploma,No,3.5-4,Trading,Yes,66.0,62.0,60.0,48.0,80.0
+M,16.0,55.0,41.0,56.0,52.0,53.0,45.0,57.0,52.0,63.0,35.0,Excellent,Mother and Father,More Than 20000,Degree,Yes,3-3.5,Civil Servant,Yes,51.0,62.0,52.0,71.0,50.0
+F,18.0,55.0,55.0,60.0,58.0,56.0,70.0,71.0,70.0,70.0,65.0,Good,Mother and Father,10000-20000,High School,No,3.5-4,Trading,Yes,72.0,83.0,61.0,65.0,88.0
+M,20.0,57.0,51.0,54.0,50.0,56.0,75.0,58.0,59.0,59.0,67.0,Excellent,Mother and Father,More Than 20000,Degree,Yes,3-3.5,Civil Servant,Yes,56.0,53.0,42.0,54.0,48.0
+F,16.0,58.0,58.0,48.0,52.0,56.0,61.0,58.0,64.0,65.0,65.0,Very Good,Mother and Father,5000-10000,High SchoolDropout,Yes,3-3.5,Trading,Yes,66.0,77.0,57.0,51.0,76.0
+F,16.0,76.0,50.0,58.0,67.0,65.0,77.0,66.0,71.0,72.0,63.0,Satisfactory,Mother and Father,5000-10000,High SchoolDropout,Yes,3-3.5,Trading,Yes,81.0,78.0,61.0,67.0,70.0
+M,17.0,45.0,50.0,55.0,50.0,37.0,67.0,52.0,53.0,60.0,35.0,Excellent,Mother and Father,Less Than 5000,High SchoolDropout,Yes,2.5-3,Trading,Yes,45.0,48.0,58.0,52.0,40.0
+M,16.0,57.0,57.0,41.0,59.0,54.0,71.0,55.0,60.0,75.0,53.0,Good,Mother Only,5000-10000,Diploma,Yes,3-3.5,Civil Servant,Yes,55.0,79.0,51.0,60.0,76.0
+F,17.0,39.0,52.0,41.0,58.0,50.0,71.0,55.0,60.0,75.0,53.0,Excellent,Father Only,5000-10000,Diploma,Yes,2.5-3,Artisan,Yes,52.0,68.0,35.0,48.0,31.0
+M,16.0,59.0,43.0,46.0,67.0,49.0,51.0,53.0,43.0,62.0,51.0,Excellent,Mother and Father,Less Than 5000,Degree,Yes,2.5-3,Civil Servant,Yes,57.0,54.0,55.0,60.0,67.0
+M,16.0,58.0,37.0,46.0,62.0,56.0,53.0,35.0,48.0,62.0,53.0,Very Good,Mother and Father,More Than 20000,Masters,Yes,2.5-3,Civil Servant,Yes,46.0,53.0,40.0,62.0,75.0
+F,16.0,56.0,42.0,50.0,63.0,54.0,51.0,52.0,48.0,59.0,51.0,Good,Father Only,10000-20000,Degree,No,2.5-3,Trading,Yes,58.0,50.0,51.0,59.0,61.0
+F,16.0,57.0,44.0,44.0,48.0,57.0,64.0,65.0,51.0,66.0,52.0,Good,Other Relatives,10000-20000,Masters,No,2.5-3,Trading,Yes,65.0,52.0,51.0,53.0,70.0
+F,18.0,48.0,57.0,50.0,61.0,62.0,59.0,53.0,53.0,62.0,47.0,Good,Other Relatives,5000-10000,High School,No,2.5-3,Civil Servant,Yes,66.0,58.0,55.0,56.0,71.0
+F,16.0,71.0,50.0,44.0,56.0,52.0,81.0,54.0,62.0,61.0,44.0,Good,Mother and Father,5000-10000,High School,No,2.5-3,Trading,Yes,75.0,50.0,50.0,59.0,70.0
+M,17.0,68.0,52.0,43.0,71.0,66.0,46.0,40.0,46.0,59.0,52.0,Very Good,Mother Only,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,48.0,50.0,52.0,61.0,75.0
+M,16.0,52.0,52.0,47.0,70.0,52.0,62.0,60.0,65.0,59.0,53.0,Excellent,Mother and Father,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,68.0,55.0,52.0,65.0,85.0
+M,16.0,73.0,47.0,45.0,69.0,70.0,66.0,40.0,61.0,55.0,57.0,Excellent,Mother and Father,5000-10000,Degree,Yes,3.5-4,Military,Yes,65.0,56.0,43.0,45.0,32.0
+F,16.0,79.0,70.0,58.0,79.0,72.0,79.0,69.0,79.0,76.0,74.0,Good,Mother and Father,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,83.0,68.0,72.0,74.0,87.0
+F,16.0,54.0,52.0,51.0,66.0,64.0,54.0,51.0,51.0,69.0,54.0,Good,Mother and Father,5000-10000,Degree,No,2-2.5,Artisan,Yes,72.0,63.0,55.0,58.0,81.0
+F,17.0,65.0,56.0,52.0,66.0,57.0,68.0,50.0,62.0,67.0,51.0,Good,Mother and Father,More Than 20000,Degree,Yes,3.5-4,Trading,No,63.0,40.0,52.0,58.0,66.0
+F,17.0,57.0,40.0,55.0,63.0,51.0,72.0,51.0,70.0,62.0,46.0,Satisfactory,Mother and Father,Less Than 5000,Degree,Yes,2-2.5,Artisan,Yes,56.0,50.0,50.0,53.0,73.0
+F,17.0,54.0,50.0,45.0,73.0,58.0,60.0,51.0,50.0,71.0,57.0,Good,Mother and Father,10000-20000,Masters,No,3-3.5,Military,Yes,58.0,53.0,50.0,59.0,85.0
+M,17.0,77.0,73.0,64.0,79.0,73.0,76.0,65.0,73.0,82.0,71.0,Very Good,Father Only,5000-10000,Degree,Yes,2.5-3,Civil Servant,Yes,86.0,57.0,66.0,73.0,84.0
+F,17.0,66.0,50.0,43.0,61.0,56.0,63.0,55.0,62.0,61.0,61.0,Good,Mother and Father,Less Than 5000,Degree,No,3-3.5,Civil Servant,Yes,48.0,56.0,43.0,60.0,64.0
+F,17.0,63.0,51.0,56.0,63.0,61.0,57.0,58.0,59.0,55.0,59.0,Good,Mother and Father,5000-10000,Degree,Yes,2.5-3,Civil Servant,No,70.0,52.0,50.0,58.0,80.0
+F,16.0,75.0,68.0,63.0,65.0,63.0,71.0,50.0,72.0,63.0,50.0,Satisfactory,Mother and Father,Less Than 5000,High School,No,3-3.5,Civil Servant,Yes,78.0,64.0,56.0,59.0,69.0
+M,21.0,64.0,79.0,60.0,72.0,67.0,74.0,71.0,79.0,79.0,63.0,Excellent,Mother Only,Less Than 5000,Masters,Yes,2.5-3,Civil Servant,Yes,60.0,65.0,60.0,66.0,70.0
+M,17.0,61.0,56.0,48.0,65.0,60.0,62.0,54.0,70.0,85.0,60.0,Very Good,Mother and Father,Less Than 5000,Masters,Yes,3-3.5,Civil Servant,Yes,56.0,70.0,60.0,48.0,65.0
+M,17.0,57.0,71.0,64.0,75.0,80.0,61.0,53.0,59.0,73.0,46.0,Very Good,Mother and Father,5000-10000,Masters,No,3-3.5,Civil Servant,Yes,46.0,56.0,50.0,48.0,60.0
+F,18.0,46.0,51.0,51.0,39.0,60.0,51.0,50.0,34.0,59.0,42.0,Very Good,Mother and Father,More Than 20000,Degree,No,3.5-4,Trading,Yes,65.0,50.0,39.0,61.0,61.0
+F,16.0,61.0,50.0,69.0,50.0,58.0,58.0,53.0,61.0,60.0,45.0,Very Good,Siblings,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,50.0,50.0,55.0,51.0,47.0
+F,16.0,52.0,57.0,68.0,21.0,57.0,63.0,50.0,63.0,54.0,45.0,Good,Mother and Father,Less Than 5000,Masters,Yes,3-3.5,Trading,Yes,58.0,50.0,54.0,51.0,52.0
+F,16.0,54.0,57.0,62.0,54.0,58.0,63.0,58.0,63.0,58.0,50.0,Good,Mother and Father,5000-10000,Degree,Yes,3.5-4,Civil Servant,Yes,66.0,57.0,44.0,51.0,62.0
+M,16.0,33.0,52.0,57.0,51.0,49.0,52.0,39.0,60.0,58.0,41.0,Good,Mother and Father,Less Than 5000,Diploma,Yes,2-2.5,Civil Servant,No,50.0,40.0,51.0,50.0,72.0
+M,16.0,58.0,68.0,63.0,63.0,62.0,62.0,55.0,68.0,51.0,44.0,Very Good,Mother and Father,10000-20000,Masters,Yes,3.5-4,Civil Servant,Yes,47.0,63.0,47.0,48.0,61.0
+F,16.0,66.0,69.0,60.0,38.0,63.0,56.0,62.0,60.0,62.0,51.0,Very Good,Mother and Father,Less Than 5000,High School,No,3-3.5,Civil Servant,Yes,54.0,50.0,47.0,52.0,63.0
+F,16.0,53.0,57.0,56.0,55.0,66.0,55.0,53.0,60.0,68.0,50.0,Good,Mother Only,Less Than 5000,Degree,No,2.5-3,Military,Yes,47.0,50.0,54.0,53.0,74.0
+M,17.0,53.0,63.0,75.0,57.0,57.0,59.0,62.0,66.0,60.0,51.0,Very Good,Mother and Father,10000-20000,PhD,Yes,3-3.5,Civil Servant,Yes,41.0,54.0,46.0,54.0,64.0
+F,16.0,55.0,52.0,68.0,50.0,56.0,66.0,50.0,73.0,64.0,50.0,Good,Mother and Father,Less Than 5000,Degree,Yes,2.5-3,Civil Servant,Yes,69.0,51.0,50.0,51.0,75.0
+F,16.0,60.0,62.0,72.0,49.0,56.0,60.0,50.0,65.0,65.0,50.0,Good,Mother and Father,10000-20000,Degree,No,3-3.5,Civil Servant,Yes,72.0,50.0,52.0,50.0,70.0
+F,16.0,61.0,43.0,68.0,45.0,54.0,57.0,36.0,57.0,60.0,51.0,Very Good,Mother and Father,5000-10000,High School,No,3-3.5,Civil Servant,Yes,64.0,53.0,51.0,48.0,56.0
+F,16.0,55.0,62.0,56.0,55.0,61.0,53.0,50.0,63.0,56.0,50.0,Very Good,Mother and Father,5000-10000,High School,No,3-3.5,Civil Servant,Yes,65.0,53.0,53.0,53.0,61.0
+F,16.0,62.0,50.0,59.0,51.0,65.0,55.0,51.0,66.0,54.0,52.0,Satisfactory,Mother and Father,5000-10000,Degree,Yes,2-2.5,Civil Servant,Yes,53.0,51.0,53.0,51.0,78.0
+F,16.0,58.0,50.0,54.0,49.0,50.0,59.0,51.0,63.0,60.0,50.0,Excellent,Mother and Father,5000-10000,PhD,Yes,3-3.5,Trading,Yes,63.0,50.0,51.0,48.0,77.0
+M,17.0,64.0,74.0,79.0,63.0,69.0,63.0,76.0,78.0,68.0,57.0,Very Good,Mother and Father,10000-20000,No Education,Yes,2-2.5,Civil Servant,Yes,71.0,62.0,68.0,68.0,70.0
+M,17.0,32.0,39.0,75.0,55.0,52.0,45.0,32.0,60.0,54.0,47.0,Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Trading,Yes,55.0,50.0,34.0,45.0,66.0
+F,17.0,68.0,41.0,64.0,48.0,63.0,50.0,44.0,62.0,43.0,39.0,Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Trading,Yes,43.0,38.0,35.0,46.0,58.0
+M,16.0,50.0,38.0,59.0,55.0,60.0,53.0,45.0,64.0,60.0,50.0,Good,Mother Only,Less Than 5000,High School,No,2.5-3,Artisan,Yes,61.0,44.0,38.0,53.0,48.0
+F,16.0,56.0,56.0,47.0,55.0,55.0,60.0,50.0,65.0,52.0,54.0,Good,Mother and Father,5000-10000,Degree,Yes,2-2.5,Trading,Yes,49.0,50.0,53.0,46.0,63.0
+F,16.0,50.0,43.0,53.0,56.0,58.0,62.0,50.0,59.0,61.0,50.0,Good,Siblings,More Than 20000,Degree,Yes,2-2.5,Civil Servant,Yes,66.0,50.0,50.0,50.0,68.0
+F,16.0,43.0,50.0,62.0,51.0,51.0,58.0,53.0,64.0,62.0,51.0,Good,Mother and Father,5000-10000,Diploma,Yes,2-2.5,Trading,Yes,60.0,50.0,52.0,50.0,74.0
+F,16.0,77.0,53.0,69.0,53.0,79.0,73.0,56.0,65.0,64.0,55.0,Satisfactory,Other Relatives,5000-10000,Masters,No,3-3.5,Trading,Yes,83.0,50.0,53.0,59.0,76.0
+M,17.0,46.0,36.0,76.0,46.0,59.0,53.0,37.0,60.0,58.0,47.0,Satisfactory,Mother and Father,Less Than 5000,Diploma,No,2-2.5,Civil Servant,No,53.0,50.0,35.0,51.0,68.0
+M,16.0,51.0,39.0,74.0,30.0,66.0,56.0,39.0,65.0,62.0,51.0,Satisfactory,Mother and Father,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,57.0,50.0,37.0,59.0,62.0
+M,16.0,37.0,53.0,61.0,44.0,64.0,65.0,36.0,66.0,57.0,51.0,Satisfactory,Mother and Father,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,75.0,55.0,50.0,55.0,76.0
+F,16.0,59.0,53.0,50.0,47.0,68.0,55.0,54.0,60.0,57.0,52.0,Very Good,Mother and Father,Less Than 5000,Degree,No,3-3.5,Civil Servant,Yes,62.0,52.0,52.0,55.0,52.0
+F,16.0,50.0,37.0,62.0,50.0,71.0,53.0,51.0,64.0,59.0,48.0,Good,Mother Only,More Than 20000,Diploma,Yes,3.5-4,Civil Servant,Yes,65.0,50.0,41.0,53.0,66.0
+F,16.0,67.0,57.0,69.0,62.0,60.0,56.0,50.0,63.0,63.0,46.0,Satisfactory,Other Relatives,5000-10000,Masters,No,2.5-3,Military,Yes,78.0,50.0,57.0,51.0,79.0
+F,16.0,63.0,52.0,67.0,59.0,65.0,58.0,51.0,60.0,63.0,42.0,Excellent,Father Only,5000-10000,High School,Yes,3-3.5,Civil Servant,Yes,55.0,50.0,57.0,50.0,65.0
+M,17.0,39.0,53.0,69.0,54.0,65.0,75.0,56.0,70.0,60.0,52.0,Very Good,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,87.0,61.0,61.0,59.0,75.0
+F,16.0,54.0,50.0,54.0,48.0,59.0,50.0,50.0,64.0,54.0,51.0,Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,57.0,50.0,50.0,48.0,62.0
+M,16.0,68.0,50.0,62.0,55.0,65.0,66.0,59.0,66.0,50.0,43.0,Satisfactory,Mother and Father,More Than 20000,High SchoolDropout,Yes,3-3.5,Trading,Yes,52.0,51.0,55.0,45.0,80.0
+M,16.0,56.0,54.0,58.0,55.0,62.0,64.0,50.0,68.0,52.0,50.0,Excellent,Mother and Father,Less Than 5000,High School,Yes,3-3.5,Civil Servant,Yes,53.0,54.0,36.0,50.0,65.0
+M,16.0,39.0,50.0,50.0,50.0,53.0,58.0,37.0,63.0,52.0,38.0,Good,Mother and Father,Less Than 5000,High School,Yes,3.5-4,Civil Servant,Yes,41.0,56.0,39.0,42.0,33.0
+F,17.0,52.0,50.0,65.0,47.0,53.0,58.0,50.0,70.0,54.0,52.0,Very Good,Mother and Father,5000-10000,High School,Yes,3-3.5,Civil Servant,Yes,60.0,50.0,51.0,64.0,67.0
+F,16.0,51.0,50.0,65.0,46.0,44.0,54.0,52.0,66.0,55.0,58.0,Good,Mother Only,5000-10000,Degree,Yes,2.5-3,Civil Servant,Yes,43.0,50.0,44.0,57.0,67.0
+F,16.0,43.0,50.0,61.0,47.0,43.0,64.0,42.0,59.0,54.0,52.0,Very Good,Mother Only,Less Than 5000,High School,No,2.5-3,Military,Yes,38.0,55.0,46.0,59.0,67.0
+M,17.0,62.0,50.0,68.0,60.0,57.0,70.0,52.0,70.0,58.0,57.0,Satisfactory,Mother Only,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,57.0,59.0,47.0,63.0,76.0
+F,17.0,55.0,56.0,72.0,60.0,53.0,76.0,55.0,68.0,67.0,56.0,Good,Mother Only,5000-10000,Degree,Yes,3-3.5,Military,Yes,56.0,50.0,49.0,70.0,76.0
+F,16.0,50.0,50.0,64.0,55.0,40.0,63.0,39.0,62.0,50.0,54.0,Good,Mother and Father,5000-10000,Diploma,Yes,2-2.5,Artisan,Yes,49.0,50.0,45.0,61.0,62.0
+F,16.0,56.0,45.0,51.0,42.0,48.0,59.0,43.0,57.0,41.0,54.0,Excellent,Mother Only,More Than 20000,PhD,Yes,2.5-3,Artisan,No,42.0,50.0,40.0,58.0,63.0
+M,16.0,67.0,56.0,59.0,58.0,67.0,63.0,61.0,69.0,50.0,63.0,Good,Father Only,Less Than 5000,Degree,Yes,2.5-3,Artisan,Yes,64.0,50.0,47.0,66.0,57.0
+F,16.0,52.0,58.0,67.0,59.0,51.0,56.0,63.0,66.0,48.0,53.0,Very Good,Mother Only,Less Than 5000,High School,No,2.5-3,Trading,Yes,57.0,53.0,48.0,61.0,45.0
+M,17.0,57.0,43.0,62.0,44.0,48.0,55.0,30.0,59.0,50.0,53.0,Good,Mother and Father,5000-10000,Masters,Yes,3-3.5,Artisan,Yes,47.0,50.0,52.0,64.0,66.0
+F,17.0,53.0,50.0,48.0,53.0,54.0,58.0,50.0,59.0,52.0,44.0,Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,43.0,50.0,49.0,65.0,68.0
+M,17.0,55.0,56.0,66.0,50.0,50.0,63.0,53.0,63.0,60.0,56.0,Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,No,49.0,56.0,47.0,64.0,66.0
+M,17.0,62.0,56.0,65.0,61.0,59.0,72.0,46.0,74.0,67.0,74.0,Good,Mother Only,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,61.0,58.0,52.0,70.0,78.0
+F,16.0,59.0,61.0,57.0,64.0,61.0,69.0,50.0,66.0,69.0,78.0,Satisfactory,Siblings,Less Than 5000,Degree,No,3.5-4,Civil Servant,Yes,60.0,56.0,54.0,66.0,58.0
+F,17.0,44.0,50.0,66.0,56.0,48.0,68.0,51.0,63.0,72.0,68.0,Good,Mother and Father,Less Than 5000,No Education,No,2.5-3,Military,No,63.0,57.0,54.0,60.0,42.0
+F,16.0,62.0,50.0,66.0,63.0,63.0,68.0,60.0,69.0,72.0,65.0,Good,Mother Only,5000-10000,Degree,Yes,3.5-4,Civil Servant,Yes,56.0,54.0,52.0,56.0,65.0
+F,17.0,64.0,50.0,64.0,72.0,43.0,71.0,45.0,69.0,73.0,73.0,Good,Mother and Father,5000-10000,Degree,Yes,2.5-3,Civil Servant,Yes,46.0,52.0,56.0,57.0,67.0
+M,16.0,61.0,41.0,44.0,58.0,47.0,72.0,50.0,34.0,73.0,59.0,Satisfactory,Mother and Father,More Than 20000,Degree,Yes,3.5-4,Trading,Yes,54.0,45.0,54.0,59.0,74.0
+M,17.0,61.0,54.0,71.0,59.0,48.0,66.0,50.0,71.0,65.0,67.0,Good,Mother and Father,Less Than 5000,High School,No,2.5-3,Civil Servant,Yes,54.0,54.0,53.0,61.0,64.0
+M,17.0,60.0,50.0,71.0,68.0,49.0,69.0,50.0,71.0,73.0,64.0,Good,Mother Only,5000-10000,High School,No,3-3.5,Civil Servant,Yes,50.0,58.0,52.0,67.0,68.0
+F,17.0,76.0,55.0,72.0,61.0,66.0,78.0,55.0,71.0,69.0,60.0,Good,Mother and Father,5000-10000,No Education,No,3-3.5,Trading,Yes,76.0,55.0,83.0,75.0,79.0
+F,17.0,65.0,82.0,71.0,86.0,76.0,85.0,77.0,76.0,95.0,84.0,Good,Mother Only,Less Than 5000,Diploma,Yes,2.5-3,Civil Servant,Yes,82.0,87.0,83.0,82.0,82.0
+F,17.0,54.0,62.0,71.0,53.0,52.0,64.0,54.0,69.0,33.0,73.0,Good,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Artisan,Yes,66.0,51.0,58.0,67.0,74.0
+F,16.0,60.0,56.0,59.0,67.0,66.0,65.0,53.0,63.0,67.0,64.0,Excellent,Mother Only,5000-10000,Masters,Yes,2-2.5,Civil Servant,Yes,61.0,54.0,49.0,62.0,68.0
+F,17.0,55.0,56.0,67.0,53.0,57.0,67.0,50.0,64.0,69.0,56.0,Good,Mother and Father,More Than 20000,Masters,Yes,3-3.5,Trading,No,56.0,52.0,50.0,69.0,74.0
+M,16.0,63.0,58.0,75.0,73.0,69.0,66.0,41.0,67.0,44.0,50.0,Good,Mother and Father,10000-20000,PhD,Yes,3.5-4,Civil Servant,Yes,62.0,50.0,56.0,59.0,77.0
+M,17.0,50.0,31.0,66.0,46.0,33.0,61.0,25.0,50.0,40.0,43.0,Good,Mother Only,Less Than 5000,Degree,No,3.5-4,Civil Servant,Yes,62.0,55.0,56.0,45.0,67.0
+M,16.0,60.0,61.0,74.0,73.0,69.0,70.0,54.0,60.0,67.0,72.0,Good,Mother and Father,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,77.0,56.0,56.0,67.0,65.0
+F,17.0,61.0,72.0,46.0,88.0,75.0,78.0,59.0,73.0,77.0,73.0,Good,Mother and Father,5000-10000,High School,No,3-3.5,Trading,Yes,58.0,71.0,77.0,76.0,82.0
+F,16.0,57.0,58.0,68.0,72.0,56.0,61.0,55.0,66.0,62.0,72.0,Good,Mother and Father,5000-10000,Diploma,Yes,2.5-3,Civil Servant,Yes,46.0,59.0,64.0,69.0,60.0
+M,17.0,53.0,62.0,69.0,63.0,63.0,65.0,50.0,66.0,62.0,63.0,Satisfactory,Mother and Father,10000-20000,Degree,No,3-3.5,Civil Servant,Yes,48.0,56.0,53.0,68.0,85.0
+F,17.0,57.0,64.0,72.0,76.0,54.0,54.0,50.0,72.0,63.0,70.0,Good,Mother and Father,5000-10000,Degree,Yes,2.5-3,Trading,No,61.0,54.0,49.0,69.0,78.0
+M,17.0,70.0,60.0,62.0,70.0,56.0,74.0,53.0,68.0,62.0,59.0,Satisfactory,Mother and Father,More Than 20000,Degree,No,3-3.5,Civil Servant,Yes,69.0,55.0,66.0,61.0,69.0
+F,17.0,52.0,52.0,68.0,57.0,60.0,60.0,43.0,62.0,48.0,53.0,Excellent,Mother and Father,Less Than 5000,High School,No,2.5-3,Civil Servant,Yes,48.0,50.0,53.0,50.0,65.0
+M,17.0,95.0,94.0,95.0,99.0,97.0,86.0,92.0,90.0,96.0,96.0,Very Good,Mother Only,5000-10000,No Education,Yes,2.5-3,Military,Yes,88.0,87.0,85.0,86.0,93.0
+M,17.0,20.0,43.0,67.0,44.0,50.0,58.0,50.0,45.0,34.0,42.0,Good,Mother Only,5000-10000,Degree,No,2-2.5,Civil Servant,Yes,42.0,44.0,51.0,62.0,56.0
+F,18.0,51.0,54.0,63.0,75.0,50.0,75.0,48.0,68.0,57.0,50.0,Excellent,Mother Only,5000-10000,Masters,Yes,3-3.5,Trading,Yes,46.0,50.0,60.0,65.0,82.0
+F,17.0,64.0,60.0,59.0,59.0,50.0,75.0,55.0,66.0,56.0,52.0,Good,Mother Only,10000-20000,Masters,Yes,3-3.5,Civil Servant,Yes,40.0,45.0,61.0,65.0,63.0
+M,16.0,68.0,53.0,52.0,48.0,50.0,68.0,62.0,61.0,57.0,55.0,Very Good,Mother and Father,More Than 20000,Masters,Yes,3-3.5,Artisan,Yes,55.0,46.0,52.0,50.0,58.0
+F,17.0,71.0,57.0,55.0,57.0,61.0,53.0,58.0,52.0,46.0,52.0,Good,Mother Only,Less Than 5000,Degree,Yes,2.5-3,Trading,Yes,58.0,50.0,47.0,44.0,62.0
+F,16.0,68.0,54.0,53.0,61.0,59.0,56.0,58.0,50.0,4.0,50.0,Good,Mother and Father,5000-10000,Degree,Yes,2.5-3,Trading,Yes,63.0,55.0,53.0,64.0,67.0
+F,16.0,61.0,52.0,51.0,73.0,60.0,66.0,64.0,57.0,54.0,43.0,Satisfactory,Father Only,5000-10000,Degree,Yes,3-3.5,Artisan,Yes,50.0,55.0,58.0,62.0,74.0
+F,16.0,76.0,50.0,62.0,50.0,58.0,47.0,62.0,47.0,36.0,50.0,Good,Mother and Father,More Than 20000,Degree,Yes,3.5-4,Civil Servant,Yes,51.0,40.0,56.0,58.0,62.0
+F,17.0,78.0,55.0,62.0,53.0,44.0,61.0,60.0,60.0,50.0,50.0,Good,Siblings,Less Than 5000,High SchoolDropout,No,3-3.5,Civil Servant,Yes,63.0,50.0,47.0,64.0,62.0
+M,16.0,57.0,63.0,65.0,73.0,50.0,68.0,64.0,72.0,60.0,58.0,Good,Mother and Father,10000-20000,High SchoolDropout,No,3-3.5,Civil Servant,No,50.0,51.0,53.0,64.0,80.0
+F,16.0,53.0,51.0,42.0,52.0,51.0,51.0,46.0,56.0,57.0,50.0,Very Good,Mother Only,5000-10000,Diploma,Yes,3-3.5,Civil Servant,Yes,44.0,55.0,55.0,64.0,82.0
+M,18.0,72.0,48.0,53.0,51.0,50.0,53.0,47.0,47.0,46.0,50.0,Excellent,Mother Only,Less Than 5000,Masters,Yes,3-3.5,Civil Servant,Yes,44.0,42.0,46.0,57.0,53.0
+M,17.0,62.0,53.0,47.0,52.0,54.0,69.0,56.0,58.0,53.0,41.0,Good,Mother and Father,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,55.0,47.0,56.0,53.0,44.0
+M,17.0,69.0,41.0,61.0,64.0,66.0,57.0,60.0,47.0,48.0,50.0,Very Good,Mother and Father,Less Than 5000,Diploma,Yes,3-3.5,Military,Yes,53.0,47.0,47.0,53.0,46.0
+M,17.0,82.0,72.0,88.0,87.0,79.0,77.0,67.0,86.0,84.0,76.0,Good,Siblings,Less Than 5000,High School,No,3.5-4,Trading,Yes,56.0,68.0,79.0,79.0,79.0
+F,17.0,50.0,51.0,47.0,51.0,66.0,51.0,56.0,32.0,48.0,50.0,Good,Mother Only,10000-20000,PhD,No,3.5-4,Trading,No,37.0,50.0,47.0,39.0,50.0
+M,18.0,63.0,55.0,58.0,55.0,42.0,59.0,55.0,60.0,53.0,53.0,Good,Mother Only,Less Than 5000,High School,No,2.5-3,Civil Servant,Yes,45.0,53.0,61.0,65.0,82.0
+M,17.0,66.0,47.0,57.0,53.0,57.0,65.0,53.0,53.0,50.0,53.0,Excellent,I Live Alone,Less Than 5000,Masters,Yes,2-2.5,Artisan,Yes,42.0,46.0,49.0,56.0,63.0
+F,17.0,81.0,56.0,49.0,50.0,41.0,67.0,48.0,57.0,50.0,45.0,Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,59.0,50.0,60.0,57.0,70.0
+F,16.0,82.0,53.0,54.0,52.0,52.0,71.0,51.0,61.0,51.0,37.0,Good,Mother Only,Less Than 5000,Diploma,Yes,2.5-3,Artisan,Yes,78.0,60.0,55.0,60.0,45.0
+F,17.0,79.0,50.0,68.0,61.0,54.0,82.0,47.0,73.0,51.0,58.0,Good,Mother and Father,5000-10000,Masters,Yes,3-3.5,Civil Servant,Yes,70.0,45.0,50.0,62.0,65.0
+F,17.0,58.0,55.0,59.0,47.0,50.0,57.0,50.0,43.0,55.0,53.0,Good,Siblings,Less Than 5000,High SchoolDropout,No,3-3.5,Civil Servant,Yes,50.0,45.0,55.0,60.0,50.0
+F,18.0,83.0,58.0,54.0,62.0,50.0,78.0,52.0,71.0,50.0,54.0,Good,Mother and Father,Less Than 5000,Degree,No,3-3.5,Civil Servant,Yes,60.0,40.0,50.0,64.0,76.0
+M,16.0,71.0,48.0,56.0,43.0,50.0,63.0,42.0,55.0,37.0,36.0,Good,Mother Only,Less Than 5000,No Education,No,3-3.5,Civil Servant,Yes,45.0,51.0,43.0,40.0,61.0
+F,18.0,75.0,50.0,62.0,52.0,43.0,74.0,50.0,60.0,51.0,45.0,Good,Mother and Father,Less Than 5000,Degree,Yes,2.5-3,Artisan,Yes,54.0,46.0,57.0,64.0,76.0
+M,18.0,50.0,37.0,49.0,42.0,52.0,47.0,46.0,41.0,34.0,42.0,Excellent,Father Only,5000-10000,Degree,Yes,3-3.5,Artisan,Yes,48.0,40.0,51.0,50.0,45.0
+M,17.0,56.0,43.0,63.0,58.0,50.0,53.0,49.0,50.0,53.0,55.0,Very Good,Mother and Father,5000-10000,Masters,Yes,3-3.5,Civil Servant,Yes,43.0,48.0,56.0,60.0,56.0
+M,17.0,52.0,46.0,39.0,45.0,46.0,43.0,55.0,34.0,55.0,47.0,Very Good,Mother and Father,Less Than 5000,Masters,Yes,2.5-3,Civil Servant,No,51.0,48.0,49.0,53.0,50.0
+M,17.0,54.0,42.0,50.0,56.0,44.0,67.0,53.0,50.0,52.0,71.0,Very Good,Mother and Father,Less Than 5000,Masters,Yes,2.5-3,Civil Servant,No,58.0,51.0,50.0,62.0,67.0
+F,17.0,63.0,40.0,44.0,54.0,50.0,60.0,62.0,66.0,61.0,74.0,Good,Mother and Father,Less Than 5000,Degree,No,2.5-3,Civil Servant,No,41.0,63.0,51.0,57.0,62.0
+M,17.0,55.0,46.0,56.0,54.0,51.0,53.0,55.0,46.0,47.0,66.0,Good,Mother and Father,Less Than 5000,Degree,No,2.5-3,Civil Servant,No,38.0,45.0,50.0,55.0,51.0
+M,17.0,56.0,37.0,56.0,56.0,51.0,54.0,67.0,56.0,48.0,76.0,Very Good,Mother and Father,Less Than 5000,Masters,Yes,2.5-3,Civil Servant,No,43.0,54.0,49.0,54.0,57.0
+M,20.0,67.0,50.0,38.0,61.0,56.0,45.0,47.0,58.0,49.0,56.0,Very Good,Mother and Father,5000-10000,Degree,No,2-2.5,Trading,Yes,45.0,44.0,52.0,52.0,68.0
+M,17.0,86.0,55.0,63.0,67.0,58.0,82.0,51.0,70.0,59.0,72.0,Very Good,Mother and Father,5000-10000,Diploma,No,3-3.5,Trading,Yes,65.0,64.0,60.0,70.0,64.0
+F,17.0,38.0,44.0,33.0,43.0,50.0,69.0,49.0,41.0,52.0,46.0,Very Good,Mother and Father,5000-10000,Diploma,Yes,3-3.5,Civil Servant,No,40.0,50.0,46.0,58.0,39.0
+M,17.0,52.0,50.0,45.0,48.0,47.0,60.0,51.0,48.0,64.0,55.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,44.0,49.0,45.0,53.0,62.0
+F,17.0,61.0,50.0,50.0,52.0,44.0,44.0,56.0,54.0,52.0,67.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,No,54.0,55.0,54.0,54.0,75.0
+M,17.0,51.0,54.0,30.0,50.0,62.0,52.0,61.0,60.0,70.0,73.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,42.0,44.0,45.0,43.0,56.0
+F,17.0,58.0,46.0,54.0,48.0,40.0,66.0,46.0,52.0,60.0,61.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,57.0,52.0,57.0,64.0,72.0
+M,16.0,67.0,53.0,64.0,46.0,57.0,72.0,49.0,50.0,53.0,62.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,43.0,46.0,46.0,54.0,57.0
+M,17.0,67.0,45.0,47.0,50.0,51.0,65.0,56.0,54.0,61.0,63.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,44.0,46.0,48.0,50.0,59.0
+F,16.0,70.0,58.0,68.0,81.0,63.0,73.0,58.0,78.0,71.0,75.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,56.0,58.0,68.0,77.0,87.0
+F,16.0,64.0,50.0,60.0,53.0,53.0,59.0,52.0,52.0,64.0,73.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,51.0,52.0,49.0,42.0,68.0
+F,18.0,43.0,54.0,52.0,41.0,46.0,45.0,50.0,32.0,57.0,40.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,50.0,43.0,48.0,45.0,21.0
+M,16.0,60.0,63.0,47.0,77.0,70.0,63.0,71.0,74.0,75.0,89.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,50.0,64.0,45.0,72.0,67.0
+F,18.0,47.0,53.0,38.0,57.0,54.0,50.0,51.0,32.0,48.0,38.0,Excellent,Mother and Father,5000-10000,Degree,Yes,2.5-3,Civil Servant,Yes,45.0,54.0,46.0,42.0,60.0
+F,17.0,60.0,54.0,49.0,53.0,61.0,55.0,57.0,39.0,45.0,55.0,Good,Mother and Father,Less Than 5000,High SchoolDropout,Yes,3-3.5,Civil Servant,Yes,54.0,52.0,45.0,64.0,58.0
+F,16.0,57.0,54.0,57.0,68.0,50.0,67.0,47.0,32.0,59.0,33.0,Good,Mother Only,Less Than 5000,High SchoolDropout,Yes,2.5-3,Civil Servant,Yes,50.0,47.0,44.0,47.0,58.0
+F,17.0,59.0,50.0,45.0,57.0,54.0,68.0,53.0,52.0,60.0,66.0,Good,Mother and Father,5000-10000,High School,Yes,3-3.5,Civil Servant,Yes,54.0,61.0,58.0,60.0,72.0
+F,17.0,55.0,48.0,49.0,50.0,52.0,70.0,53.0,32.0,64.0,70.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,54.0,49.0,59.0,52.0,74.0
+F,16.0,55.0,41.0,51.0,58.0,50.0,61.0,47.0,50.0,60.0,63.0,Very Good,Mother and Father,5000-10000,High School,No,3-3.5,Civil Servant,Yes,50.0,51.0,48.0,53.0,73.0
+M,17.0,70.0,41.0,60.0,73.0,62.0,78.0,61.0,63.0,76.0,73.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,52.0,58.0,44.0,76.0,79.0
+F,16.0,60.0,42.0,55.0,63.0,65.0,53.0,63.0,58.0,70.0,72.0,Excellent,Siblings,Less Than 5000,Masters,Yes,3-3.5,Civil Servant,No,50.0,62.0,53.0,66.0,76.0
+M,16.0,63.0,42.0,49.0,61.0,60.0,57.0,56.0,63.0,71.0,76.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,41.0,49.0,45.0,58.0,62.0
+M,16.0,61.0,46.0,62.0,74.0,55.0,62.0,60.0,57.0,68.0,80.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,50.0,51.0,57.0,54.0,60.0
+M,16.0,64.0,43.0,49.0,64.0,55.0,61.0,56.0,53.0,77.0,77.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,52.0,50.0,44.0,57.0,68.0
+F,16.0,59.0,47.0,53.0,52.0,52.0,59.0,58.0,54.0,65.0,74.0,Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,51.0,56.0,40.0,60.0,48.0
+M,16.0,55.0,44.0,57.0,50.0,52.0,50.0,61.0,56.0,50.0,70.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,43.0,47.0,46.0,61.0,47.0
+M,17.0,41.0,46.0,43.0,43.0,47.0,67.0,49.0,42.0,44.0,40.0,Good,Mother and Father,5000-10000,PhD,Yes,3.5-4,Artisan,Yes,45.0,44.0,56.0,43.0,57.0
+M,17.0,53.0,52.0,65.0,54.0,61.0,72.0,58.0,57.0,65.0,50.0,Good,Mother and Father,Less Than 5000,Degree,No,2-2.5,Civil Servant,Yes,51.0,37.0,54.0,50.0,75.0
+M,16.0,72.0,50.0,71.0,61.0,62.0,73.0,55.0,66.0,68.0,59.0,Very Good,Mother and Father,5000-10000,No Education,No,3-3.5,Trading,Yes,58.0,52.0,44.0,48.0,65.0
+F,17.0,68.0,54.0,64.0,55.0,64.0,72.0,49.0,69.0,69.0,56.0,Very Good,Mother Only,Less Than 5000,High School,Yes,3.5-4,Trading,Yes,55.0,46.0,54.0,53.0,76.0
+F,17.0,42.0,45.0,54.0,42.0,57.0,70.0,52.0,61.0,63.0,58.0,Good,Mother and Father,5000-10000,Degree,Yes,2-2.5,Civil Servant,Yes,51.0,43.0,45.0,51.0,73.0
+M,17.0,81.0,39.0,82.0,59.0,69.0,75.0,41.0,61.0,66.0,68.0,Good,Mother Only,Less Than 5000,High School,Yes,3-3.5,Trading,Yes,75.0,48.0,52.0,40.0,70.0
+F,17.0,52.0,48.0,67.0,53.0,54.0,56.0,50.0,57.0,65.0,55.0,Excellent,Siblings,Less Than 5000,Degree,No,3.5-4,Trading,Yes,50.0,60.0,62.0,55.0,68.0
+F,17.0,58.0,50.0,54.0,58.0,45.0,67.0,45.0,51.0,73.0,54.0,Good,Mother and Father,10000-20000,Masters,Yes,2.5-3,Civil Servant,Yes,55.0,57.0,53.0,47.0,65.0
+F,16.0,58.0,54.0,52.0,57.0,50.0,74.0,48.0,61.0,64.0,51.0,Good,Mother and Father,5000-10000,High School,Yes,2.5-3,Trading,Yes,64.0,52.0,53.0,50.0,72.0
+M,16.0,50.0,53.0,68.0,50.0,67.0,72.0,54.0,74.0,69.0,58.0,Good,Mother and Father,5000-10000,Diploma,No,3-3.5,Trading,No,57.0,49.0,52.0,64.0,74.0
+F,17.0,47.0,53.0,57.0,44.0,54.0,68.0,47.0,62.0,69.0,58.0,Very Good,Mother and Father,Less Than 5000,Degree,Yes,2.5-3,Civil Servant,Yes,52.0,53.0,58.0,50.0,81.0
+M,16.0,68.0,54.0,65.0,53.0,57.0,79.0,46.0,65.0,66.0,70.0,Very Good,Mother and Father,5000-10000,High School,Yes,3-3.5,Civil Servant,Yes,52.0,67.0,61.0,57.0,69.0
+M,17.0,62.0,48.0,61.0,53.0,54.0,74.0,59.0,63.0,67.0,55.0,Very Good,Mother Only,Less Than 5000,Diploma,Yes,3-3.5,Civil Servant,Yes,52.0,69.0,54.0,50.0,72.0
+M,16.0,68.0,54.0,67.0,64.0,61.0,78.0,50.0,61.0,68.0,68.0,Good,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,59.0,59.0,54.0,59.0,70.0
+F,16.0,50.0,57.0,59.0,52.0,54.0,72.0,42.0,59.0,65.0,51.0,Good,Mother and Father,10000-20000,Masters,Yes,2.5-3,Civil Servant,Yes,60.0,49.0,54.0,55.0,77.0
+F,16.0,44.0,57.0,53.0,47.0,52.0,71.0,46.0,60.0,68.0,50.0,Very Good,Mother and Father,5000-10000,High School,Yes,3.5-4,Civil Servant,Yes,61.0,54.0,50.0,50.0,73.0
+M,15.0,89.0,46.0,74.0,66.0,73.0,94.0,52.0,67.0,83.0,76.0,Satisfactory,Mother and Father,More Than 20000,PhD,No,3.5-4,Trading,No,80.0,68.0,58.0,65.0,73.0
+F,16.0,90.0,72.0,85.0,87.0,70.0,76.0,74.0,76.0,77.0,80.0,Good,Mother and Father,5000-10000,Masters,Yes,3.5-4,Civil Servant,Yes,69.0,78.0,62.0,67.0,75.0
+M,17.0,54.0,63.0,78.0,6.0,71.0,73.0,63.0,72.0,70.0,81.0,Satisfactory,Father Only,5000-10000,Degree,Yes,3.5-4,Trading,Yes,61.0,68.0,68.0,68.0,75.0
+M,17.0,72.0,50.0,52.0,55.0,58.0,77.0,36.0,43.0,65.0,54.0,Good,Mother and Father,5000-10000,High School,No,3-3.5,Civil Servant,Yes,62.0,57.0,54.0,57.0,59.0
+F,16.0,38.0,45.0,54.0,48.0,52.0,76.0,47.0,60.0,61.0,54.0,Good,Mother and Father,Less Than 5000,High SchoolDropout,Yes,2.5-3,Artisan,No,70.0,52.0,59.0,51.0,80.0
+F,17.0,45.0,50.0,53.0,47.0,59.0,75.0,54.0,65.0,68.0,55.0,Good,Mother and Father,10000-20000,Degree,Yes,2.5-3,Trading,Yes,71.0,41.0,64.0,56.0,68.0
+M,16.0,84.0,50.0,57.0,57.0,54.0,77.0,39.0,67.0,76.0,54.0,Good,Mother Only,10000-20000,PhD,No,3.5-4,Civil Servant,Yes,67.0,51.0,48.0,41.0,60.0
+M,17.0,77.0,62.0,67.0,72.0,74.0,85.0,58.0,74.0,79.0,65.0,Excellent,Mother and Father,5000-10000,Masters,No,3.5-4,Civil Servant,Yes,58.0,58.0,55.0,56.0,79.0
+F,16.0,60.0,53.0,57.0,55.0,57.0,71.0,50.0,72.0,66.0,54.0,Good,Mother and Father,10000-20000,Masters,Yes,2.5-3,Civil Servant,Yes,64.0,59.0,62.0,62.0,80.0
+F,20.0,57.0,47.0,60.0,58.0,52.0,57.0,46.0,56.0,68.0,66.0,Good,Siblings,5000-10000,Masters,Yes,2.5-3,Military,Yes,53.0,54.0,59.0,54.0,62.0
+M,17.0,48.0,55.0,43.0,48.0,51.0,60.0,45.0,61.0,65.0,49.0,Good,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,53.0,48.0,60.0,52.0,67.0
+M,16.0,58.0,36.0,45.0,51.0,47.0,64.0,39.0,24.0,49.0,56.0,Excellent,Mother and Father,5000-10000,Masters,No,3-3.5,Civil Servant,No,54.0,38.0,45.0,61.0,61.0
+M,16.0,52.0,58.0,62.0,59.0,52.0,63.0,58.0,61.0,57.0,50.0,Good,Mother and Father,5000-10000,Diploma,No,3-3.5,Trading,No,55.0,57.0,46.0,56.0,78.0
+M,17.0,64.0,44.0,39.0,57.0,50.0,56.0,41.0,56.0,49.0,52.0,Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,50.0,51.0,44.0,52.0,78.0
+M,17.0,66.0,48.0,39.0,56.0,51.0,58.0,45.0,57.0,45.0,40.0,Very Good,Mother and Father,5000-10000,High School,Yes,2-2.5,Trading,Yes,53.0,41.0,44.0,61.0,69.0
+F,17.0,70.0,45.0,59.0,57.0,50.0,67.0,46.0,60.0,55.0,53.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Artisan,Yes,54.0,46.0,48.0,58.0,70.0
+F,16.0,41.0,37.0,50.0,52.0,58.0,51.0,45.0,55.0,55.0,50.0,Excellent,Mother and Father,More Than 20000,High School,No,3.5-4,Civil Servant,Yes,55.0,45.0,38.0,52.0,68.0
+F,17.0,69.0,38.0,46.0,54.0,50.0,50.0,48.0,48.0,50.0,50.0,Good,Mother and Father,10000-20000,Masters,Yes,3-3.5,Civil Servant,Yes,53.0,46.0,47.0,55.0,68.0
+F,19.0,68.0,43.0,52.0,51.0,50.0,64.0,41.0,57.0,52.0,56.0,Excellent,Father Only,5000-10000,High School,Yes,3.5-4,Civil Servant,Yes,50.0,46.0,47.0,50.0,69.0
+M,17.0,61.0,44.0,52.0,55.0,47.0,64.0,42.0,49.0,54.0,40.0,Good,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Artisan,Yes,55.0,40.0,47.0,60.0,75.0
+M,18.0,62.0,50.0,64.0,53.0,59.0,40.0,53.0,37.0,55.0,57.0,Good,Mother and Father,Less Than 5000,No Education,Yes,2-2.5,Civil Servant,Yes,56.0,53.0,44.0,65.0,69.0
+F,17.0,63.0,32.0,50.0,58.0,43.0,60.0,41.0,72.0,64.0,51.0,Satisfactory,Mother and Father,More Than 20000,Masters,Yes,3-3.5,Civil Servant,No,52.0,47.0,48.0,54.0,61.0
+F,17.0,48.0,45.0,60.0,53.0,50.0,61.0,47.0,55.0,46.0,50.0,Good,Mother and Father,Less Than 5000,No Education,No,2-2.5,Trading,No,60.0,53.0,42.0,60.0,51.0
+M,18.0,61.0,42.0,42.0,39.0,50.0,61.0,38.0,45.0,51.0,50.0,Good,Mother and Father,More Than 20000,Masters,Yes,3-3.5,Civil Servant,No,48.0,46.0,48.0,58.0,65.0
+M,18.0,64.0,34.0,40.0,32.0,47.0,49.0,42.0,39.0,47.0,44.0,Good,I Live Alone,More Than 20000,Masters,No,3-3.5,Civil Servant,No,55.0,60.0,44.0,40.0,43.0
+F,17.0,51.0,53.0,53.0,61.0,39.0,67.0,50.0,62.0,61.0,50.0,Satisfactory,Mother and Father,Less Than 5000,Degree,Yes,2.5-3,Artisan,Yes,53.0,51.0,46.0,33.0,64.0
+M,17.0,62.0,43.0,50.0,43.0,52.0,67.0,46.0,59.0,44.0,52.0,Good,Mother Only,Less Than 5000,High School,No,3-3.5,Civil Servant,No,55.0,41.0,37.0,53.0,54.0
+F,17.0,61.0,52.0,50.0,53.0,50.0,63.0,40.0,67.0,64.0,57.0,Good,Mother and Father,5000-10000,High School,Yes,3.5-4,Military,Yes,67.0,46.0,45.0,51.0,66.0
+F,15.0,49.0,48.0,53.0,52.0,59.0,68.0,48.0,68.0,51.0,70.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,46.0,42.0,46.0,61.0,41.0
+M,16.0,32.0,48.0,55.0,44.0,53.0,62.0,40.0,48.0,54.0,72.0,Excellent,Mother and Father,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,38.0,53.0,36.0,42.0,46.0
+M,16.0,46.0,47.0,60.0,44.0,67.0,60.0,42.0,55.0,53.0,73.0,Good,Father Only,More Than 20000,Masters,No,3.5-4,Civil Servant,Yes,51.0,40.0,44.0,61.0,54.0
+M,16.0,51.0,47.0,60.0,53.0,48.0,61.0,39.0,48.0,51.0,57.0,Satisfactory,Mother and Father,5000-10000,No Education,No,3-3.5,Military,Yes,48.0,46.0,45.0,57.0,45.0
+F,16.0,48.0,53.0,57.0,53.0,54.0,63.0,50.0,54.0,62.0,78.0,Good,Mother and Father,More Than 20000,PhD,No,3-3.5,Artisan,No,58.0,54.0,54.0,68.0,61.0
+M,16.0,50.0,47.0,56.0,51.0,51.0,56.0,44.0,60.0,56.0,62.0,Very Good,Mother and Father,Less Than 5000,Degree,Yes,3.5-4,Artisan,Yes,58.0,50.0,46.0,62.0,38.0
+F,16.0,45.0,52.0,51.0,53.0,58.0,56.0,50.0,52.0,55.0,68.0,Good,Mother Only,10000-20000,Degree,Yes,2.5-3,Artisan,Yes,58.0,42.0,50.0,60.0,38.0
+F,16.0,33.0,51.0,61.0,21.0,53.0,74.0,55.0,59.0,55.0,79.0,Good,Mother and Father,Less Than 5000,Diploma,No,3-3.5,Civil Servant,Yes,53.0,47.0,46.0,65.0,63.0
+F,16.0,43.0,38.0,62.0,53.0,54.0,72.0,58.0,58.0,54.0,71.0,Very Good,Mother Only,5000-10000,Degree,Yes,3-3.5,Trading,Yes,40.0,38.0,65.0,55.0,45.0
+M,16.0,47.0,54.0,60.0,55.0,54.0,51.0,35.0,59.0,52.0,66.0,Good,Mother and Father,Less Than 5000,Masters,No,3-3.5,Artisan,Yes,45.0,55.0,62.0,65.0,60.0
+M,16.0,54.0,52.0,57.0,50.0,68.0,57.0,41.0,57.0,56.0,66.0,Good,Mother and Father,10000-20000,Diploma,Yes,3-3.5,Civil Servant,Yes,55.0,56.0,60.0,48.0,60.0
+M,16.0,55.0,56.0,61.0,63.0,67.0,79.0,51.0,56.0,55.0,70.0,Very Good,Mother and Father,Less Than 5000,High School,Yes,3-3.5,Civil Servant,Yes,58.0,60.0,67.0,70.0,66.0
+F,16.0,45.0,44.0,56.0,50.0,55.0,57.0,43.0,60.0,52.0,65.0,Good,Mother and Father,10000-20000,Masters,Yes,3-3.5,Artisan,Yes,40.0,45.0,60.0,45.0,50.0
+M,16.0,64.0,45.0,58.0,53.0,58.0,56.0,45.0,56.0,56.0,70.0,Good,Mother and Father,10000-20000,Masters,No,3-3.5,Civil Servant,Yes,60.0,55.0,65.0,60.0,58.0
+F,16.0,53.0,50.0,55.0,57.0,60.0,55.0,55.0,61.0,62.0,67.0,Good,Mother and Father,5000-10000,Degree,Yes,2.5-3,Military,Yes,50.0,45.0,55.0,60.0,60.0
+M,16.0,43.0,41.0,59.0,50.0,49.0,49.0,44.0,52.0,53.0,60.0,Good,I Live Alone,Less Than 5000,High School,Yes,3-3.5,Trading,Yes,53.0,51.0,50.0,59.0,64.0
+M,16.0,50.0,42.0,56.0,47.0,52.0,56.0,46.0,61.0,51.0,64.0,Very Good,Mother and Father,Less Than 5000,Masters,Yes,3-3.5,Artisan,Yes,48.0,54.0,48.0,58.0,36.0
+M,16.0,58.0,49.0,35.0,57.0,52.0,63.0,46.0,58.0,57.0,76.0,Very Good,Father Only,Less Than 5000,High SchoolDropout,No,2-2.5,Trading,No,47.0,53.0,58.0,61.0,65.0
+M,16.0,56.0,48.0,63.0,68.0,73.0,69.0,44.0,58.0,55.0,64.0,Good,Mother Only,10000-20000,High School,No,2.5-3,Civil Servant,Yes,55.0,60.0,47.0,63.0,47.0
+M,17.0,53.0,53.0,61.0,64.0,62.0,52.0,45.0,50.0,55.0,59.0,Very Good,Mother and Father,More Than 20000,Degree,Yes,2.5-3,Civil Servant,Yes,50.0,54.0,65.0,60.0,65.0
+F,17.0,87.0,64.0,69.0,81.0,89.0,94.0,69.0,72.0,79.0,88.0,Good,Mother Only,5000-10000,Masters,Yes,2.5-3,Trading,No,80.0,60.0,65.0,60.0,75.0
+F,17.0,60.0,44.0,54.0,54.0,58.0,53.0,48.0,50.0,48.0,58.0,Good,Mother and Father,More Than 20000,Masters,No,3-3.5,Trading,Yes,52.0,48.0,43.0,55.0,53.0
+M,17.0,46.0,48.0,51.0,46.0,58.0,56.0,38.0,50.0,55.0,52.0,Excellent,Mother and Father,Less Than 5000,High SchoolDropout,Yes,3-3.5,Military,Yes,52.0,50.0,44.0,60.0,79.0
+F,17.0,56.0,45.0,52.0,64.0,76.0,77.0,59.0,53.0,50.0,57.0,Very Good,I Live Alone,Less Than 5000,No Education,No,2.5-3,Trading,Yes,55.0,72.0,62.0,68.0,59.0
+F,17.0,55.0,54.0,52.0,57.0,63.0,59.0,55.0,56.0,50.0,52.0,Very Good,Mother and Father,Less Than 5000,Degree,No,3-3.5,Trading,Yes,55.0,60.0,60.0,63.0,81.0
+M,17.0,46.0,36.0,51.0,40.0,52.0,47.0,31.0,50.0,45.0,41.0,Good,Mother and Father,More Than 20000,Masters,Yes,2.5-3,Artisan,Yes,48.0,49.0,44.0,47.0,70.0
+F,17.0,50.0,44.0,50.0,52.0,56.0,54.0,37.0,50.0,53.0,55.0,Excellent,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,41.0,39.0,43.0,56.0,55.0
+M,17.0,53.0,39.0,50.0,59.0,57.0,57.0,47.0,50.0,53.0,49.0,Good,Other Relatives,Less Than 5000,Degree,No,2.5-3,Civil Servant,Yes,53.0,45.0,46.0,57.0,68.0
+F,17.0,49.0,42.0,45.0,61.0,61.0,59.0,43.0,57.0,54.0,52.0,Good,Mother and Father,5000-10000,High School,Yes,3.5-4,Civil Servant,Yes,50.0,53.0,50.0,56.0,58.0
+F,21.0,48.0,47.0,51.0,62.0,56.0,60.0,64.0,50.0,44.0,54.0,Good,I Live Alone,Less Than 5000,High SchoolDropout,No,3.5-4,Artisan,Yes,50.0,54.0,40.0,55.0,68.0
+F,17.0,50.0,43.0,51.0,57.0,62.0,55.0,44.0,52.0,59.0,46.0,Good,Mother and Father,10000-20000,Masters,Yes,3-3.5,Artisan,Yes,44.0,54.0,43.0,51.0,46.0
+F,17.0,53.0,38.0,47.0,42.0,58.0,61.0,40.0,50.0,52.0,43.0,Excellent,Mother Only,Less Than 5000,No Education,No,3-3.5,Civil Servant,Yes,50.0,50.0,45.0,56.0,71.0
+F,17.0,61.0,43.0,33.0,53.0,45.0,60.0,36.0,50.0,39.0,41.0,Good,Mother and Father,5000-10000,No Education,Yes,3-3.5,Civil Servant,Yes,52.0,44.0,36.0,51.0,72.0
+F,17.0,50.0,50.0,50.0,59.0,62.0,56.0,52.0,59.0,58.0,53.0,Very Good,Mother Only,5000-10000,No Education,Yes,2.5-3,Civil Servant,Yes,53.0,64.0,46.0,62.0,79.0
+F,17.0,59.0,38.0,36.0,66.0,42.0,50.0,31.0,50.0,54.0,37.0,Very Good,Mother and Father,More Than 20000,Degree,Yes,3-3.5,Civil Servant,Yes,50.0,45.0,39.0,31.0,75.0
+F,17.0,45.0,52.0,52.0,52.0,61.0,65.0,53.0,50.0,53.0,52.0,Good,Mother and Father,Less Than 5000,Masters,Yes,3.5-4,Civil Servant,Yes,50.0,52.0,44.0,63.0,72.0
+M,17.0,41.0,52.0,44.0,68.0,42.0,37.0,38.0,33.0,51.0,38.0,Good,Siblings,10000-20000,Masters,Yes,2.5-3,Civil Servant,Yes,44.0,50.0,56.0,51.0,43.0
+M,17.0,55.0,52.0,55.0,66.0,60.0,64.0,40.0,50.0,54.0,54.0,Good,Mother Only,Less Than 5000,Degree,No,3-3.5,Trading,Yes,53.0,55.0,52.0,59.0,65.0
+F,17.0,65.0,51.0,59.0,68.0,74.0,65.0,52.0,55.0,59.0,46.0,Good,Mother and Father,Less Than 5000,High School,Yes,2.5-3,Civil Servant,Yes,59.0,70.0,51.0,57.0,51.0
+F,16.0,50.0,47.0,50.0,51.0,59.0,50.0,46.0,53.0,51.0,51.0,Excellent,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,51.0,52.0,43.0,54.0,74.0
+F,16.0,44.0,48.0,50.0,25.0,43.0,47.0,36.0,51.0,45.0,37.0,Excellent,Mother Only,5000-10000,Masters,Yes,2.5-3,Artisan,Yes,42.0,52.0,43.0,52.0,51.0
+F,16.0,50.0,46.0,44.0,41.0,56.0,52.0,41.0,54.0,52.0,50.0,Good,Mother and Father,More Than 20000,Masters,Yes,3-3.5,Civil Servant,Yes,51.0,56.0,37.0,65.0,75.0
+F,16.0,59.0,59.0,44.0,58.0,46.0,59.0,39.0,54.0,48.0,56.0,Very Good,Mother and Father,Less Than 5000,Degree,Yes,3.5-4,Civil Servant,Yes,50.0,46.0,43.0,56.0,48.0
+F,16.0,59.0,59.0,39.0,29.0,47.0,59.0,45.0,43.0,54.0,49.0,Very Good,Father Only,More Than 20000,No Education,Yes,3-3.5,Civil Servant,Yes,40.0,53.0,35.0,64.0,48.0
+F,16.0,54.0,59.0,49.0,48.0,45.0,55.0,49.0,59.0,53.0,44.0,Excellent,Mother Only,Less Than 5000,Masters,Yes,2.5-3,Trading,Yes,38.0,52.0,40.0,68.0,56.0
+F,16.0,78.0,78.0,74.0,82.0,89.0,85.0,59.0,72.0,68.0,81.0,Very Good,Mother and Father,Less Than 5000,Diploma,No,3.5-4,Trading,Yes,68.0,74.0,64.0,85.0,86.0
+M,16.0,82.0,62.0,57.0,83.0,93.0,75.0,64.0,78.0,70.0,85.0,Very Good,Siblings,5000-10000,Masters,No,3-3.5,Civil Servant,Yes,58.0,79.0,75.0,69.0,74.0
+F,18.0,46.0,49.0,38.0,59.0,74.0,54.0,58.0,54.0,60.0,54.0,Good,Mother Only,Less Than 5000,Degree,Yes,3.5-4,Trading,Yes,36.0,55.0,41.0,59.0,78.0
+M,22.0,56.0,38.0,41.0,57.0,55.0,58.0,62.0,55.0,61.0,56.0,Very Good,Siblings,More Than 20000,Masters,No,3-3.5,Trading,Yes,36.0,49.0,47.0,64.0,53.0
+M,18.0,59.0,47.0,50.0,57.0,61.0,57.0,55.0,60.0,50.0,58.0,Excellent,Father Only,Less Than 5000,No Education,No,2.5-3,Trading,Yes,40.0,58.0,58.0,71.0,77.0
+F,18.0,52.0,56.0,50.0,60.0,59.0,58.0,62.0,80.0,65.0,72.0,Good,Mother Only,5000-10000,Degree,Yes,2.5-3,Civil Servant,Yes,42.0,65.0,54.0,60.0,53.0
+F,18.0,54.0,52.0,53.0,65.0,73.0,58.0,61.0,60.0,62.0,55.0,Good,Siblings,Less Than 5000,Diploma,No,2.5-3,Civil Servant,Yes,42.0,65.0,54.0,60.0,53.0
+M,17.0,57.0,41.0,55.0,50.0,67.0,59.0,52.0,50.0,65.0,50.0,Very Good,Siblings,10000-20000,Degree,No,3-3.5,Trading,Yes,39.0,58.0,51.0,52.0,52.0
+M,17.0,59.0,59.0,50.0,80.0,74.0,60.0,72.0,57.0,67.0,84.0,Very Good,Mother and Father,5000-10000,Degree,Yes,2.5-3,Military,Yes,47.0,73.0,73.0,69.0,67.0
+M,17.0,47.0,45.0,26.0,59.0,68.0,48.0,55.0,50.0,63.0,52.0,Very Good,Mother and Father,10000-20000,Degree,No,3.5-4,Civil Servant,No,34.0,52.0,45.0,53.0,56.0
+M,18.0,50.0,54.0,39.0,42.0,58.0,46.0,57.0,50.0,44.0,50.0,Good,Mother Only,5000-10000,Masters,No,3-3.5,Trading,Yes,38.0,58.0,42.0,57.0,65.0
+M,17.0,50.0,54.0,50.0,55.0,64.0,65.0,56.0,62.0,55.0,62.0,Good,Mother Only,More Than 20000,Masters,No,3-3.5,Civil Servant,Yes,39.0,49.0,36.0,56.0,65.0
+F,17.0,48.0,49.0,38.0,50.0,66.0,44.0,56.0,50.0,50.0,58.0,Good,Mother Only,Less Than 5000,Diploma,Yes,2.5-3,Trading,Yes,42.0,61.0,43.0,56.0,70.0
+F,17.0,44.0,46.0,50.0,37.0,56.0,54.0,58.0,60.0,51.0,53.0,Good,Mother Only,Less Than 5000,Masters,Yes,3.5-4,Civil Servant,Yes,50.0,62.0,45.0,54.0,76.0
+M,17.0,49.0,52.0,50.0,68.0,62.0,62.0,59.0,57.0,58.0,59.0,Good,Father Only,5000-10000,High SchoolDropout,Yes,2-2.5,Civil Servant,Yes,37.0,66.0,45.0,51.0,61.0
+F,17.0,50.0,54.0,40.0,45.0,53.0,54.0,42.0,36.0,56.0,51.0,Very Good,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,37.0,66.0,45.0,51.0,61.0
+F,17.0,46.0,44.0,46.0,52.0,58.0,47.0,62.0,36.0,54.0,47.0,Good,Mother and Father,Less Than 5000,Diploma,Yes,3-3.5,Civil Servant,Yes,39.0,59.0,47.0,57.0,58.0
+F,17.0,44.0,48.0,51.0,50.0,50.0,55.0,49.0,50.0,54.0,63.0,Excellent,Mother and Father,More Than 20000,Masters,Yes,3.5-4,Artisan,Yes,44.0,50.0,40.0,55.0,45.0
+F,18.0,50.0,55.0,50.0,37.0,57.0,62.0,53.0,58.0,62.0,66.0,Good,Mother and Father,Less Than 5000,Masters,No,3-3.5,Civil Servant,Yes,41.0,55.0,43.0,62.0,67.0
+F,17.0,48.0,49.0,50.0,65.0,64.0,57.0,65.0,56.0,44.0,39.0,Good,Mother and Father,More Than 20000,Masters,Yes,2.5-3,Trading,Yes,36.0,45.0,40.0,53.0,54.0
+F,18.0,53.0,54.0,50.0,61.0,58.0,53.0,65.0,50.0,60.0,60.0,Very Good,Siblings,Less Than 5000,Masters,Yes,3-3.5,Civil Servant,Yes,41.0,56.0,40.0,58.0,43.0
+F,17.0,40.0,49.0,52.0,45.0,45.0,56.0,52.0,54.0,55.0,46.0,Good,Father Only,5000-10000,PhD,Yes,2-2.5,Civil Servant,Yes,39.0,53.0,46.0,50.0,49.0
+F,17.0,50.0,47.0,59.0,59.0,45.0,50.0,51.0,55.0,58.0,55.0,Good,Mother and Father,Less Than 5000,No Education,Yes,2-2.5,Trading,Yes,39.0,54.0,52.0,57.0,68.0
+F,18.0,58.0,45.0,50.0,61.0,52.0,62.0,57.0,59.0,59.0,55.0,Excellent,Mother and Father,Less Than 5000,Degree,Yes,2-2.5,Civil Servant,Yes,44.0,64.0,53.0,52.0,51.0
+F,19.0,54.0,50.0,53.0,59.0,58.0,56.0,46.0,51.0,53.0,60.0,Excellent,Mother and Father,Less Than 5000,Degree,Yes,3.5-4,Civil Servant,Yes,38.0,51.0,49.0,64.0,44.0
+F,18.0,47.0,55.0,42.0,55.0,48.0,67.0,39.0,58.0,54.0,51.0,Excellent,Mother Only,10000-20000,PhD,Yes,2.5-3,Artisan,Yes,43.0,52.0,38.0,63.0,37.0
+M,18.0,86.0,97.0,88.0,97.0,99.0,87.0,92.0,86.0,94.0,88.0,Good,Siblings,5000-10000,Masters,No,3.5-4,Civil Servant,Yes,84.0,94.0,86.0,86.0,88.0
+M,18.0,74.0,87.0,82.0,82.0,95.0,72.0,80.0,77.0,85.0,74.0,Good,Mother and Father,5000-10000,High School,No,3.5-4,Trading,Yes,84.0,94.0,86.0,86.0,88.0
+M,18.0,50.0,50.0,56.0,50.0,53.0,50.0,50.0,53.0,50.0,61.0,Excellent,Father Only,10000-20000,Masters,No,2-2.5,Artisan,Yes,55.0,40.0,45.0,44.0,48.0
+M,16.0,85.0,93.0,77.0,89.0,86.0,80.0,88.0,83.0,88.0,84.0,Good,Mother and Father,Less Than 5000,No Education,No,3.5-4,Trading,Yes,71.0,76.0,80.0,74.0,87.0
+F,16.0,52.0,57.0,61.0,55.0,74.0,66.0,60.0,57.0,68.0,74.0,Good,Mother and Father,Less Than 5000,Degree,No,3-3.5,Civil Servant,Yes,67.0,50.0,63.0,55.0,66.0
+M,17.0,82.0,94.0,86.0,76.0,82.0,79.0,83.0,79.0,90.0,80.0,Good,Mother and Father,Less Than 5000,No Education,No,3.5-4,Trading,Yes,75.0,69.0,81.0,70.0,82.0
+F,16.0,72.0,52.0,55.0,43.0,68.0,72.0,48.0,64.0,58.0,64.0,Very Good,Mother and Father,Less Than 5000,Masters,Yes,2.5-3,Civil Servant,Yes,56.0,44.0,69.0,54.0,66.0
+M,16.0,76.0,80.0,70.0,68.0,89.0,76.0,78.0,74.0,93.0,94.0,Good,Mother Only,5000-10000,Degree,No,3.5-4,Civil Servant,Yes,66.0,77.0,82.0,71.0,80.0
+M,17.0,64.0,48.0,57.0,50.0,59.0,68.0,55.0,55.0,50.0,64.0,Good,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,55.0,46.0,50.0,50.0,40.0
+M,17.0,60.0,43.0,50.0,50.0,43.0,74.0,58.0,57.0,50.0,72.0,Good,Mother Only,5000-10000,Diploma,Yes,3-3.5,Civil Servant,Yes,53.0,38.0,52.0,47.0,48.0
+F,17.0,81.0,75.0,64.0,59.0,78.0,63.0,65.0,62.0,77.0,77.0,Satisfactory,Mother Only,Less Than 5000,Diploma,No,3-3.5,Civil Servant,No,56.0,70.0,65.0,58.0,56.0
+F,17.0,92.0,89.0,69.0,74.0,88.0,94.0,63.0,68.0,74.0,86.0,Very Good,Mother Only,Less Than 5000,High SchoolDropout,Yes,3.5-4,Civil Servant,Yes,82.0,68.0,64.0,65.0,87.0
+F,18.0,62.0,56.0,50.0,45.0,66.0,52.0,57.0,59.0,71.0,73.0,Good,I Live Alone,10000-20000,Degree,Yes,2.5-3,Trading,Yes,43.0,47.0,46.0,53.0,66.0
+M,19.0,62.0,56.0,60.0,43.0,65.0,64.0,59.0,57.0,72.0,66.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3.5-4,Artisan,Yes,40.0,58.0,44.0,48.0,68.0
+M,17.0,79.0,90.0,67.0,71.0,75.0,69.0,66.0,62.0,75.0,79.0,Very Good,Mother and Father,5000-10000,Masters,No,3.5-4,Civil Servant,Yes,70.0,74.0,72.0,66.0,76.0
+F,17.0,56.0,50.0,56.0,41.0,62.0,60.0,54.0,58.0,76.0,67.0,Good,Mother Only,Less Than 5000,Degree,No,2.5-3,Trading,Yes,64.0,56.0,55.0,65.0,58.0
+M,18.0,69.0,77.0,76.0,68.0,75.0,80.0,66.0,60.0,72.0,75.0,Good,Mother Only,Less Than 5000,High School,No,3-3.5,Trading,Yes,68.0,64.0,61.0,70.0,63.0
+F,16.0,73.0,83.0,68.0,74.0,81.0,79.0,81.0,65.0,75.0,81.0,Very Good,Mother and Father,Less Than 5000,No Education,Yes,3.5-4,Trading,Yes,62.0,71.0,72.0,75.0,70.0
+F,17.0,63.0,55.0,60.0,52.0,62.0,60.0,52.0,57.0,71.0,65.0,Very Good,Mother Only,5000-10000,High SchoolDropout,No,3-3.5,Civil Servant,Yes,52.0,57.0,48.0,60.0,58.0
+M,17.0,72.0,53.0,60.0,50.0,68.0,53.0,59.0,59.0,59.0,65.0,Satisfactory,Mother and Father,5000-10000,Degree,No,3.5-4,Trading,No,51.0,54.0,42.0,43.0,38.0
+F,19.0,71.0,56.0,67.0,36.0,69.0,62.0,67.0,59.0,71.0,61.0,Good,Mother Only,Less Than 5000,No Education,No,2.5-3,Military,Yes,54.0,69.0,52.0,57.0,57.0
+M,16.0,73.0,91.0,67.0,78.0,76.0,66.0,75.0,80.0,88.0,83.0,Very Good,Mother Only,Less Than 5000,No Education,Yes,3.5-4,Trading,Yes,69.0,81.0,82.0,78.0,90.0
+F,18.0,66.0,72.0,57.0,40.0,71.0,60.0,71.0,53.0,72.0,61.0,Excellent,Mother and Father,5000-10000,Masters,Yes,2-2.5,Civil Servant,Yes,60.0,64.0,55.0,61.0,61.0
+F,17.0,62.0,55.0,56.0,46.0,57.0,62.0,73.0,61.0,67.0,72.0,Good,Mother and Father,5000-10000,Degree,Yes,2.5-3,Civil Servant,Yes,56.0,68.0,60.0,61.0,46.0
+M,17.0,45.0,80.0,70.0,44.0,61.0,56.0,73.0,66.0,73.0,62.0,Good,Siblings,Less Than 5000,Degree,No,2.5-3,Civil Servant,Yes,46.0,81.0,80.0,62.0,53.0
+F,18.0,76.0,100.0,85.0,89.0,97.0,93.0,94.0,83.0,97.0,95.0,Very Good,Mother and Father,Less Than 5000,No Education,No,3.5-4,Civil Servant,Yes,79.0,92.0,91.0,91.0,93.0
+M,17.0,72.0,82.0,63.0,54.0,74.0,74.0,61.0,62.0,64.0,61.0,Good,Mother Only,Less Than 5000,Masters,Yes,2-2.5,Military,Yes,48.0,59.0,68.0,60.0,52.0
+M,17.0,69.0,56.0,64.0,45.0,68.0,70.0,59.0,59.0,78.0,61.0,Good,Mother and Father,Less Than 5000,No Education,No,3-3.5,Civil Servant,No,40.0,54.0,50.0,56.0,57.0
+F,17.0,72.0,63.0,62.0,66.0,67.0,61.0,70.0,60.0,79.0,67.0,Excellent,Mother and Father,Less Than 5000,High School,Yes,3-3.5,Trading,Yes,56.0,70.0,70.0,65.0,56.0
+M,17.0,62.0,60.0,58.0,68.0,70.0,58.0,57.0,54.0,72.0,59.0,Good,Mother and Father,5000-10000,Degree,No,3-3.5,Civil Servant,No,50.0,50.0,45.0,57.0,53.0
+M,16.0,61.0,45.0,53.0,53.0,65.0,64.0,61.0,51.0,69.0,65.0,Good,Mother and Father,5000-10000,High School,No,2.5-3,Trading,Yes,55.0,60.0,45.0,62.0,40.0
+F,17.0,65.0,56.0,57.0,49.0,72.0,56.0,66.0,56.0,63.0,62.0,Excellent,Mother Only,More Than 20000,Masters,Yes,3.5-4,Artisan,Yes,55.0,69.0,44.0,63.0,62.0
+M,18.0,62.0,77.0,64.0,65.0,78.0,66.0,68.0,53.0,73.0,67.0,Very Good,Mother Only,Less Than 5000,Degree,No,3-3.5,Civil Servant,Yes,61.0,75.0,39.0,58.0,50.0
+F,17.0,54.0,58.0,57.0,43.0,66.0,67.0,70.0,54.0,68.0,62.0,Good,Mother and Father,Less Than 5000,Degree,No,3-3.5,Civil Servant,Yes,58.0,58.0,47.0,63.0,61.0
+F,17.0,62.0,64.0,61.0,50.0,71.0,63.0,59.0,57.0,76.0,68.0,Very Good,Mother and Father,Less Than 5000,No Education,No,2.5-3,Military,Yes,56.0,62.0,50.0,60.0,61.0
+M,17.0,75.0,99.0,82.0,91.0,91.0,76.0,96.0,83.0,97.0,95.0,Satisfactory,Mother and Father,5000-10000,Diploma,No,3.5-4,Trading,Yes,65.0,94.0,90.0,86.0,93.0
+M,17.0,62.0,48.0,67.0,56.0,77.0,58.0,59.0,51.0,55.0,74.0,Good,Mother and Father,10000-20000,High SchoolDropout,No,2.5-3,Military,No,18.0,33.0,37.0,34.0,46.0
+M,16.0,72.0,52.0,69.0,57.0,77.0,61.0,63.0,53.0,67.0,59.0,Good,Mother and Father,5000-10000,High SchoolDropout,No,2.5-3,Trading,No,36.0,43.0,41.0,37.0,80.0
+F,16.0,60.0,52.0,63.0,52.0,73.0,58.0,60.0,54.0,61.0,56.0,Good,Mother and Father,Less Than 5000,Degree,No,3-3.5,Military,Yes,23.0,36.0,57.0,37.0,47.0
+M,18.0,58.0,48.0,52.0,52.0,72.0,58.0,59.0,56.0,68.0,53.0,Satisfactory,Siblings,5000-10000,High SchoolDropout,No,3-3.5,Artisan,No,38.0,37.0,42.0,39.0,45.0
+M,18.0,59.0,50.0,59.0,50.0,58.0,63.0,63.0,52.0,63.0,56.0,Good,Other Relatives,10000-20000,No Education,Yes,2.5-3,Artisan,No,30.0,34.0,38.0,30.0,33.0
+F,16.0,68.0,57.0,60.0,54.0,58.0,63.0,61.0,50.0,62.0,56.0,Good,Mother and Father,Less Than 5000,Masters,No,3.5-4,Civil Servant,Yes,38.0,37.0,42.0,33.0,41.0
+F,18.0,83.0,61.0,72.0,69.0,78.0,83.0,70.0,70.0,73.0,87.0,Very Good,Mother and Father,Less Than 5000,High SchoolDropout,No,3.5-4,Trading,Yes,61.0,45.0,68.0,59.0,79.0
+F,16.0,50.0,47.0,64.0,58.0,80.0,64.0,54.0,54.0,44.0,60.0,Good,Siblings,5000-10000,No Education,No,3-3.5,Trading,Yes,39.0,48.0,65.0,50.0,59.0
+F,16.0,78.0,49.0,62.0,59.0,81.0,79.0,68.0,62.0,76.0,80.0,Good,Other Relatives,5000-10000,Diploma,No,3-3.5,Civil Servant,Yes,61.0,49.0,70.0,58.0,68.0
+F,19.0,61.0,54.0,56.0,57.0,48.0,50.0,73.0,56.0,65.0,60.0,Good,Other Relatives,Less Than 5000,No Education,Yes,3-3.5,Military,Yes,34.0,39.0,54.0,48.0,51.0
+F,17.0,56.0,50.0,58.0,50.0,56.0,59.0,53.0,60.0,63.0,67.0,Good,Mother Only,5000-10000,No Education,Yes,3-3.5,Trading,Yes,32.0,56.0,50.0,52.0,57.0
+F,19.0,63.0,43.0,63.0,55.0,75.0,52.0,63.0,58.0,60.0,70.0,Good,Mother and Father,Less Than 5000,No Education,Yes,3-3.5,Trading,Yes,38.0,49.0,56.0,55.0,44.0
+M,16.0,65.0,47.0,60.0,53.0,73.0,54.0,59.0,58.0,60.0,57.0,Excellent,Siblings,10000-20000,High School,Yes,3-3.5,Trading,No,35.0,34.0,62.0,39.0,39.0
+F,16.0,76.0,66.0,69.0,57.0,90.0,83.0,78.0,76.0,67.0,87.0,Good,Mother Only,5000-10000,Diploma,No,3-3.5,Civil Servant,No,57.0,86.0,77.0,74.0,86.0
+F,17.0,55.0,46.0,50.0,44.0,52.0,49.0,58.0,54.0,58.0,57.0,Good,Mother Only,Less Than 5000,No Education,No,3-3.5,Civil Servant,No,41.0,53.0,55.0,59.0,66.0
+F,17.0,67.0,48.0,53.0,50.0,57.0,64.0,56.0,69.0,50.0,54.0,Satisfactory,Other Relatives,5000-10000,Masters,No,3-3.5,Artisan,Yes,35.0,46.0,60.0,50.0,41.0
+F,18.0,68.0,60.0,67.0,57.0,57.0,63.0,62.0,65.0,50.0,70.0,Satisfactory,Siblings,5000-10000,High SchoolDropout,No,3-3.5,Civil Servant,Yes,55.0,42.0,55.0,46.0,69.0
+F,18.0,59.0,50.0,56.0,61.0,78.0,56.0,50.0,56.0,59.0,55.0,Good,Mother and Father,Less Than 5000,High School,No,3-3.5,Civil Servant,Yes,30.0,32.0,60.0,50.0,54.0
+M,17.0,80.0,96.0,86.0,90.0,98.0,86.0,89.0,84.0,94.0,96.0,Satisfactory,Mother Only,Less Than 5000,High School,No,3.5-4,Trading,Yes,71.0,89.0,87.0,85.0,98.0
+F,17.0,49.0,47.0,62.0,57.0,79.0,56.0,62.0,58.0,59.0,60.0,Excellent,Mother and Father,10000-20000,Degree,Yes,3-3.5,Trading,Yes,54.0,56.0,60.0,51.0,60.0
+M,17.0,52.0,46.0,57.0,59.0,69.0,57.0,66.0,56.0,56.0,56.0,Good,Mother and Father,10000-20000,High School,Yes,3-3.5,Civil Servant,Yes,37.0,29.0,50.0,45.0,44.0
+F,17.0,66.0,69.0,62.0,52.0,64.0,70.0,83.0,66.0,74.0,82.0,Satisfactory,Mother and Father,Less Than 5000,No Education,No,3-3.5,Trading,No,45.0,60.0,60.0,55.0,65.0
+F,16.0,58.0,57.0,50.0,51.0,61.0,51.0,52.0,50.0,58.0,42.0,Very Good,Mother and Father,5000-10000,Degree,Yes,2.5-3,Civil Servant,Yes,40.0,50.0,65.0,54.0,53.0
+M,17.0,67.0,52.0,59.0,54.0,64.0,49.0,54.0,67.0,56.0,65.0,Good,Mother and Father,Less Than 5000,High School,No,2.5-3,Civil Servant,Yes,38.0,51.0,58.0,35.0,52.0
+M,18.0,65.0,48.0,55.0,48.0,63.0,38.0,57.0,77.0,62.0,61.0,Excellent,Siblings,Less Than 5000,No Education,Yes,3-3.5,Trading,Yes,34.0,45.0,73.0,50.0,54.0
+F,18.0,63.0,44.0,58.0,55.0,67.0,64.0,56.0,62.0,52.0,63.0,Excellent,Mother and Father,10000-20000,High SchoolDropout,No,3-3.5,Trading,Yes,46.0,41.0,70.0,52.0,53.0
+M,18.0,62.0,62.0,65.0,60.0,67.0,64.0,66.0,61.0,60.0,73.0,Good,Mother and Father,5000-10000,No Education,No,3-3.5,Trading,Yes,53.0,47.0,75.0,50.0,57.0
+F,17.0,59.0,48.0,52.0,50.0,51.0,50.0,66.0,57.0,50.0,53.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,51.0,44.0,42.0,44.0,50.0
+M,18.0,58.0,52.0,61.0,63.0,65.0,48.0,68.0,67.0,55.0,74.0,Good,Mother and Father,Less Than 5000,No Education,No,3-3.5,Trading,Yes,61.0,49.0,43.0,50.0,83.0
+F,16.0,54.0,55.0,61.0,50.0,63.0,67.0,57.0,56.0,52.0,47.0,Very Good,Father Only,Less Than 5000,No Education,No,3-3.5,Trading,No,51.0,51.0,45.0,33.0,52.0
+F,18.0,64.0,51.0,55.0,50.0,51.0,62.0,63.0,61.0,63.0,61.0,Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Trading,Yes,53.0,50.0,48.0,51.0,75.0
+F,17.0,64.0,43.0,69.0,52.0,55.0,64.0,69.0,58.0,65.0,64.0,Excellent,I Live Alone,More Than 20000,Degree,Yes,3.5-4,Artisan,Yes,55.0,44.0,45.0,44.0,50.0
+F,16.0,71.0,48.0,56.0,47.0,62.0,68.0,60.0,62.0,59.0,68.0,Very Good,Mother Only,Less Than 5000,Degree,Yes,2.5-3,Civil Servant,Yes,61.0,49.0,48.0,40.0,52.0
+M,16.0,71.0,67.0,62.0,69.0,71.0,60.0,56.0,49.0,63.0,57.0,Very Good,Mother and Father,5000-10000,High SchoolDropout,Yes,3.5-4,Trading,Yes,58.0,57.0,50.0,50.0,61.0
+M,17.0,64.0,58.0,54.0,55.0,64.0,65.0,51.0,63.0,60.0,65.0,Excellent,Mother and Father,Less Than 5000,Diploma,Yes,3-3.5,Trading,Yes,60.0,44.0,45.0,54.0,69.0
+F,16.0,64.0,57.0,71.0,57.0,75.0,63.0,52.0,66.0,65.0,65.0,Good,Mother Only,Less Than 5000,Masters,Yes,2.5-3,Civil Servant,Yes,57.0,58.0,44.0,49.0,64.0
+M,17.0,52.0,64.0,66.0,74.0,64.0,56.0,64.0,70.0,54.0,58.0,Good,Mother and Father,More Than 20000,Masters,Yes,2.5-3,Civil Servant,Yes,56.0,48.0,56.0,48.0,61.0
+F,17.0,71.0,77.0,65.0,58.0,75.0,70.0,71.0,65.0,60.0,60.0,Satisfactory,Mother and Father,Less Than 5000,High School,No,3-3.5,Trading,Yes,64.0,62.0,54.0,52.0,58.0
+F,16.0,78.0,67.0,69.0,70.0,65.0,73.0,57.0,65.0,78.0,70.0,Very Good,Other Relatives,Less Than 5000,No Education,No,3-3.5,Trading,Yes,71.0,59.0,61.0,71.0,71.0
+M,17.0,55.0,60.0,67.0,57.0,64.0,60.0,51.0,54.0,52.0,48.0,Good,Mother and Father,5000-10000,Degree,No,2.5-3,Civil Servant,Yes,60.0,53.0,35.0,50.0,70.0
+M,16.0,69.0,59.0,56.0,49.0,62.0,62.0,61.0,68.0,62.0,61.0,Excellent,Siblings,5000-10000,Degree,Yes,3-3.5,Artisan,Yes,55.0,52.0,40.0,34.0,69.0
+F,17.0,60.0,54.0,61.0,63.0,67.0,58.0,66.0,58.0,54.0,42.0,Good,Mother and Father,5000-10000,Masters,Yes,3-3.5,Trading,Yes,54.0,46.0,40.0,44.0,45.0
+F,17.0,55.0,57.0,62.0,52.0,50.0,54.0,61.0,61.0,56.0,50.0,Very Good,Mother and Father,5000-10000,Masters,Yes,3-3.5,Trading,Yes,57.0,42.0,39.0,60.0,50.0
+M,16.0,61.0,64.0,59.0,49.0,54.0,56.0,66.0,66.0,69.0,62.0,Excellent,I Live Alone,Less Than 5000,Masters,Yes,2.5-3,Trading,Yes,44.0,65.0,40.0,40.0,50.0
+M,16.0,65.0,58.0,52.0,49.0,76.0,55.0,63.0,61.0,61.0,65.0,Good,Mother and Father,5000-10000,Masters,Yes,2.5-3,Trading,Yes,50.0,45.0,55.0,60.0,50.0
+F,17.0,66.0,50.0,51.0,61.0,55.0,56.0,66.0,69.0,62.0,71.0,Very Good,Mother Only,Less Than 5000,High School,Yes,3-3.5,Civil Servant,Yes,50.0,45.0,55.0,60.0,50.0
+F,17.0,66.0,48.0,57.0,58.0,67.0,52.0,66.0,66.0,57.0,54.0,Very Good,Mother and Father,5000-10000,High School,Yes,3-3.5,Artisan,Yes,66.0,29.0,44.0,49.0,53.0
+F,16.0,88.0,66.0,53.0,65.0,84.0,84.0,53.0,56.0,59.0,79.0,Good,Mother and Father,5000-10000,Degree,Yes,3.5-4,Civil Servant,Yes,84.0,47.0,47.0,48.0,74.0
+M,16.0,65.0,48.0,56.0,51.0,56.0,50.0,61.0,60.0,54.0,69.0,Good,Mother and Father,More Than 20000,No Education,Yes,2.5-3,Military,Yes,60.0,44.0,35.0,29.0,57.0
+F,17.0,78.0,85.0,78.0,84.0,82.0,75.0,82.0,72.0,88.0,89.0,Good,Siblings,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,70.0,78.0,70.0,82.0,58.0
+F,17.0,59.0,50.0,57.0,62.0,61.0,59.0,66.0,63.0,54.0,55.0,Very Good,I Live Alone,Less Than 5000,PhD,No,3-3.5,Civil Servant,Yes,61.0,45.0,42.0,50.0,65.0
+F,18.0,58.0,48.0,55.0,61.0,63.0,46.0,52.0,52.0,45.0,67.0,Good,Mother and Father,Less Than 5000,No Education,No,2.5-3,Trading,Yes,58.0,37.0,42.0,51.0,51.0
+M,16.0,68.0,83.0,79.0,74.0,71.0,65.0,83.0,78.0,80.0,84.0,Satisfactory,Mother Only,Less Than 5000,No Education,No,2.5-3,Civil Servant,Yes,77.0,84.0,87.0,77.0,76.0
+M,16.0,79.0,61.0,69.0,65.0,69.0,78.0,59.0,61.0,74.0,59.0,Very Good,Father Only,Less Than 5000,No Education,No,3-3.5,Military,Yes,83.0,41.0,52.0,53.0,64.0
+M,16.0,67.0,59.0,69.0,53.0,52.0,67.0,53.0,61.0,54.0,51.0,Good,Mother and Father,Less Than 5000,No Education,No,2.5-3,Trading,Yes,70.0,44.0,42.0,55.0,59.0
+M,17.0,62.0,61.0,67.0,74.0,79.0,55.0,60.0,65.0,68.0,64.0,Very Good,Mother and Father,5000-10000,PhD,Yes,3-3.5,Civil Servant,Yes,57.0,39.0,51.0,60.0,63.0
+M,16.0,68.0,69.0,63.0,68.0,70.0,62.0,72.0,64.0,71.0,64.0,Excellent,Mother and Father,Less Than 5000,No Education,No,3.5-4,Civil Servant,Yes,65.0,64.0,46.0,65.0,77.0
+F,17.0,55.0,44.0,45.0,58.0,57.0,68.0,56.0,63.0,55.0,59.0,Very Good,Mother and Father,5000-10000,Degree,Yes,2.5-3,Civil Servant,Yes,58.0,47.0,39.0,47.0,53.0
+M,17.0,63.0,67.0,62.0,63.0,59.0,58.0,65.0,55.0,60.0,67.0,Very Good,I Live Alone,Less Than 5000,PhD,No,2.5-3,Civil Servant,Yes,64.0,46.0,50.0,36.0,82.0
+M,17.0,61.0,63.0,54.0,54.0,68.0,52.0,66.0,67.0,53.0,63.0,Good,Father Only,10000-20000,High SchoolDropout,No,3-3.5,Trading,Yes,45.0,47.0,45.0,53.0,80.0
+M,17.0,53.0,50.0,61.0,51.0,50.0,50.0,50.0,53.0,51.0,56.0,Satisfactory,Other Relatives,More Than 20000,Masters,Yes,2.5-3,Civil Servant,Yes,35.0,36.0,42.0,40.0,50.0
+M,16.0,59.0,49.0,59.0,45.0,53.0,52.0,58.0,54.0,58.0,57.0,Good,Mother and Father,5000-10000,Diploma,Yes,2.5-3,Trading,Yes,49.0,26.0,44.0,47.0,47.0
+M,18.0,82.0,87.0,74.0,72.0,77.0,92.0,85.0,71.0,87.0,81.0,Good,Siblings,Less Than 5000,Degree,No,3.5-4,Civil Servant,Yes,81.0,74.0,63.0,72.0,83.0
+M,16.0,55.0,53.0,50.0,52.0,51.0,47.0,49.0,58.0,48.0,53.0,Satisfactory,Mother and Father,Less Than 5000,Masters,No,3-3.5,Civil Servant,Yes,51.0,32.0,41.0,25.0,40.0
+M,18.0,62.0,50.0,53.0,50.0,50.0,45.0,50.0,55.0,50.0,51.0,Very Good,Siblings,Less Than 5000,No Education,Yes,2-2.5,Civil Servant,Yes,53.0,40.0,41.0,33.0,36.0
+M,18.0,50.0,50.0,58.0,50.0,40.0,50.0,50.0,52.0,50.0,60.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Military,Yes,42.0,44.0,42.0,16.0,36.0
+F,17.0,57.0,52.0,64.0,52.0,51.0,53.0,65.0,62.0,54.0,52.0,Good,Siblings,5000-10000,Masters,No,2.5-3,Trading,Yes,45.0,38.0,40.0,49.0,46.0
+F,16.0,66.0,50.0,60.0,45.0,50.0,54.0,50.0,58.0,58.0,60.0,Good,Father Only,5000-10000,Degree,Yes,2.5-3,Civil Servant,Yes,41.0,46.0,40.0,44.0,35.0
+F,17.0,50.0,50.0,49.0,46.0,50.0,50.0,51.0,56.0,60.0,50.0,Very Good,Mother Only,Less Than 5000,No Education,Yes,2.5-3,Military,Yes,63.0,38.0,44.0,26.0,43.0
+M,18.0,63.0,73.0,63.0,56.0,59.0,84.0,61.0,67.0,62.0,58.0,Satisfactory,Mother and Father,Less Than 5000,Diploma,No,2.5-3,Trading,Yes,58.0,41.0,46.0,43.0,52.0
+M,17.0,60.0,50.0,66.0,36.0,48.0,64.0,50.0,58.0,54.0,52.0,Satisfactory,Mother and Father,5000-10000,High School,No,3-3.5,Civil Servant,Yes,48.0,38.0,44.0,48.0,51.0
+F,17.0,77.0,54.0,62.0,50.0,63.0,76.0,70.0,62.0,50.0,56.0,Very Good,Mother and Father,Less Than 5000,No Education,No,3-3.5,Civil Servant,Yes,77.0,52.0,39.0,50.0,61.0
+M,18.0,50.0,44.0,48.0,53.0,50.0,50.0,54.0,52.0,53.0,50.0,Excellent,Father Only,Less Than 5000,Masters,Yes,3-3.5,Civil Servant,Yes,44.0,38.0,44.0,31.0,47.0
+F,19.0,50.0,50.0,48.0,51.0,50.0,50.0,50.0,54.0,53.0,50.0,Excellent,Mother Only,Less Than 5000,Masters,Yes,3.5-4,Civil Servant,Yes,44.0,28.0,38.0,33.0,29.0
+M,18.0,56.0,46.0,48.0,40.0,47.0,54.0,58.0,51.0,40.0,53.0,Very Good,Mother and Father,Less Than 5000,Degree,Yes,2.5-3,Military,Yes,53.0,58.0,50.0,56.0,61.0
+F,17.0,59.0,44.0,57.0,50.0,50.0,47.0,66.0,58.0,50.0,50.0,Satisfactory,Mother and Father,Less Than 5000,Diploma,No,2.5-3,Civil Servant,No,35.0,31.0,40.0,29.0,47.0
+M,17.0,53.0,51.0,57.0,50.0,50.0,48.0,55.0,56.0,50.0,50.0,Very Good,Mother and Father,Less Than 5000,Degree,Yes,2.5-3,Civil Servant,Yes,59.0,28.0,44.0,38.0,50.0
+M,17.0,61.0,51.0,56.0,41.0,51.0,58.0,53.0,52.0,44.0,49.0,Good,Mother and Father,5000-10000,Degree,No,3-3.5,Artisan,No,48.0,40.0,52.0,42.0,42.0
+M,16.0,50.0,50.0,49.0,50.0,45.0,50.0,50.0,55.0,50.0,55.0,Very Good,Mother and Father,Less Than 5000,No Education,No,3.5-4,Artisan,Yes,46.0,40.0,45.0,26.0,58.0
+F,16.0,58.0,50.0,45.0,55.0,50.0,46.0,50.0,56.0,48.0,50.0,Very Good,Mother and Father,Less Than 5000,High School,Yes,2.5-3,Artisan,Yes,57.0,41.0,47.0,29.0,44.0
+M,16.0,48.0,50.0,52.0,50.0,50.0,61.0,50.0,54.0,50.0,50.0,Good,Mother and Father,Less Than 5000,No Education,No,2.5-3,Military,Yes,41.0,28.0,41.0,34.0,41.0
+M,16.0,67.0,90.0,63.0,70.0,71.0,77.0,92.0,64.0,69.0,71.0,Very Good,Mother and Father,Less Than 5000,No Education,No,3-3.5,Civil Servant,Yes,70.0,75.0,58.0,45.0,76.0
+F,16.0,50.0,50.0,50.0,41.0,51.0,50.0,50.0,55.0,59.0,57.0,Excellent,Mother and Father,More Than 20000,PhD,Yes,2.5-3,Civil Servant,Yes,44.0,37.0,38.0,41.0,41.0
+F,18.0,50.0,50.0,50.0,50.0,43.0,50.0,50.0,52.0,50.0,54.0,Excellent,Mother and Father,More Than 20000,PhD,Yes,3.5-4,Civil Servant,Yes,55.0,45.0,63.0,48.0,50.0
+M,17.0,67.0,65.0,64.0,65.0,58.0,82.0,71.0,83.0,74.0,77.0,Good,Mother and Father,10000-20000,Degree,Yes,2.5-3,Civil Servant,Yes,69.0,61.0,68.0,68.0,78.0
+F,18.0,51.0,50.0,54.0,57.0,58.0,49.0,54.0,76.0,64.0,72.0,Very Good,Mother and Father,Less Than 5000,High SchoolDropout,Yes,2.5-3,Military,Yes,60.0,43.0,52.0,44.0,57.0
+M,17.0,37.0,51.0,54.0,43.0,45.0,65.0,56.0,68.0,74.0,68.0,Good,Mother and Father,Less Than 5000,High School,Yes,3-3.5,Trading,Yes,39.0,39.0,35.0,43.0,70.0
+F,17.0,53.0,55.0,55.0,68.0,60.0,60.0,61.0,71.0,70.0,72.0,Very Good,Mother and Father,5000-10000,High School,Yes,2.5-3,Civil Servant,Yes,57.0,51.0,56.0,51.0,75.0
+F,16.0,80.0,43.0,60.0,71.0,71.0,80.0,64.0,76.0,73.0,73.0,Very Good,Mother Only,5000-10000,Diploma,No,3.5-4,Trading,Yes,80.0,47.0,61.0,62.0,69.0
+M,17.0,50.0,42.0,51.0,41.0,70.0,63.0,64.0,82.0,66.0,89.0,Good,Mother and Father,Less Than 5000,No Education,No,3-3.5,Civil Servant,Yes,64.0,40.0,64.0,54.0,66.0
+M,17.0,67.0,61.0,53.0,71.0,81.0,73.0,72.0,78.0,67.0,90.0,Very Good,Mother and Father,Less Than 5000,No Education,No,3-3.5,Trading,Yes,60.0,55.0,60.0,59.0,58.0
+F,16.0,43.0,52.0,37.0,44.0,50.0,57.0,60.0,62.0,66.0,80.0,Good,I Live Alone,Less Than 5000,No Education,No,2.5-3,Trading,Yes,43.0,33.0,42.0,42.0,65.0
+M,17.0,56.0,48.0,59.0,50.0,56.0,68.0,56.0,73.0,70.0,87.0,Good,Siblings,Less Than 5000,Degree,No,3-3.5,Civil Servant,Yes,58.0,51.0,52.0,52.0,77.0
+M,18.0,61.0,62.0,55.0,41.0,48.0,56.0,55.0,64.0,74.0,80.0,Good,Mother Only,Less Than 5000,Diploma,No,2.5-3,Artisan,Yes,44.0,32.0,38.0,42.0,58.0
+M,17.0,91.0,92.0,90.0,84.0,92.0,94.0,95.0,96.0,95.0,99.0,Very Good,Mother and Father,5000-10000,High School,No,3.5-4,Trading,Yes,86.0,75.0,73.0,76.0,77.0
+F,16.0,60.0,57.0,47.0,42.0,51.0,52.0,56.0,71.0,69.0,94.0,Good,Mother Only,Less Than 5000,High School,No,2.5-3,Civil Servant,Yes,52.0,38.0,55.0,50.0,77.0
+F,17.0,59.0,42.0,49.0,47.0,59.0,85.0,64.0,82.0,72.0,72.0,Excellent,Mother and Father,Less Than 5000,Degree,Yes,2.5-3,Civil Servant,Yes,51.0,44.0,45.0,46.0,57.0
+F,16.0,53.0,48.0,49.0,49.0,60.0,62.0,58.0,73.0,58.0,78.0,Good,Mother and Father,5000-10000,High SchoolDropout,No,3-3.5,Civil Servant,Yes,56.0,38.0,55.0,59.0,55.0
+F,17.0,52.0,57.0,56.0,54.0,63.0,67.0,59.0,63.0,72.0,78.0,Excellent,Mother Only,Less Than 5000,High School,No,3-3.5,Trading,Yes,65.0,47.0,48.0,64.0,61.0
+M,17.0,51.0,41.0,47.0,48.0,65.0,62.0,68.0,54.0,56.0,60.0,Good,Mother Only,Less Than 5000,High School,No,3-3.5,Civil Servant,Yes,50.0,38.0,59.0,48.0,59.0
+F,16.0,72.0,65.0,54.0,58.0,71.0,71.0,59.0,59.0,49.0,70.0,Satisfactory,Mother and Father,10000-20000,Masters,No,3-3.5,Trading,Yes,59.0,43.0,52.0,49.0,48.0
+F,16.0,40.0,40.0,50.0,46.0,50.0,46.0,55.0,43.0,50.0,67.0,Very Good,Father Only,5000-10000,No Education,Yes,3-3.5,Artisan,Yes,43.0,32.0,40.0,44.0,70.0
+F,16.0,63.0,43.0,46.0,36.0,56.0,65.0,50.0,48.0,62.0,60.0,Good,Mother and Father,More Than 20000,High SchoolDropout,Yes,3-3.5,Trading,Yes,53.0,42.0,56.0,48.0,62.0
+F,17.0,42.0,38.0,45.0,29.0,44.0,60.0,50.0,55.0,57.0,45.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,35.0,30.0,38.0,36.0,66.0
+F,17.0,53.0,70.0,49.0,53.0,60.0,66.0,53.0,58.0,53.0,72.0,Very Good,Mother and Father,5000-10000,High School,No,3-3.5,Trading,Yes,64.0,45.0,58.0,52.0,50.0
+F,16.0,46.0,41.0,46.0,39.0,66.0,58.0,44.0,50.0,57.0,72.0,Very Good,Mother Only,10000-20000,High School,Yes,2.5-3,Trading,No,57.0,41.0,57.0,47.0,67.0
+F,17.0,43.0,37.0,42.0,42.0,45.0,50.0,46.0,59.0,48.0,74.0,Excellent,Mother and Father,Less Than 5000,High School,No,2.5-3,Civil Servant,Yes,51.0,43.0,50.0,48.0,53.0
+F,16.0,45.0,40.0,55.0,53.0,59.0,50.0,41.0,52.0,57.0,62.0,Good,Siblings,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,51.0,41.0,54.0,50.0,75.0
+F,17.0,38.0,50.0,44.0,41.0,50.0,44.0,50.0,42.0,45.0,62.0,Good,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,51.0,40.0,53.0,45.0,63.0
+F,17.0,59.0,55.0,59.0,60.0,60.0,60.0,51.0,56.0,53.0,67.0,Good,Mother and Father,Less Than 5000,High SchoolDropout,No,3-3.5,Trading,Yes,68.0,46.0,54.0,49.0,47.0
+M,16.0,50.0,37.0,39.0,49.0,34.0,47.0,44.0,54.0,58.0,68.0,Good,Mother Only,5000-10000,Diploma,No,3.5-4,Civil Servant,Yes,60.0,45.0,46.0,50.0,65.0
+M,17.0,64.0,88.0,84.0,80.0,92.0,73.0,71.0,67.0,74.0,71.0,Good,Mother and Father,Less Than 5000,High School,No,3.5-4,Trading,Yes,56.0,70.0,68.0,67.0,74.0
+F,17.0,58.0,50.0,57.0,42.0,54.0,66.0,60.0,50.0,66.0,61.0,Good,Siblings,Less Than 5000,High School,Yes,2.5-3,Military,Yes,46.0,44.0,45.0,44.0,49.0
+F,18.0,54.0,50.0,58.0,44.0,54.0,68.0,52.0,60.0,70.0,62.0,Good,Siblings,Less Than 5000,High School,Yes,2.5-3,Artisan,Yes,44.0,34.0,45.0,38.0,76.0
+F,17.0,41.0,50.0,44.0,37.0,61.0,60.0,69.0,62.0,64.0,56.0,Good,Mother and Father,5000-10000,High School,Yes,2-2.5,Civil Servant,Yes,51.0,34.0,50.0,37.0,76.0
+F,16.0,50.0,37.0,48.0,40.0,69.0,64.0,58.0,57.0,75.0,64.0,Very Good,Mother and Father,5000-10000,No Education,Yes,3.5-4,Trading,Yes,51.0,48.0,54.0,42.0,65.0
+F,16.0,65.0,55.0,54.0,45.0,55.0,78.0,55.0,58.0,63.0,63.0,Good,I Live Alone,Less Than 5000,Masters,No,3-3.5,Civil Servant,Yes,50.0,43.0,59.0,36.0,65.0
+F,17.0,51.0,43.0,59.0,42.0,57.0,57.0,60.0,54.0,64.0,57.0,Very Good,Mother and Father,10000-20000,No Education,Yes,2.5-3,Trading,Yes,50.0,48.0,47.0,42.0,66.0
+F,17.0,51.0,57.0,49.0,65.0,66.0,69.0,53.0,56.0,73.0,55.0,Good,Mother and Father,Less Than 5000,Diploma,Yes,2.5-3,Civil Servant,Yes,58.0,48.0,54.0,46.0,69.0
+F,18.0,47.0,41.0,49.0,34.0,52.0,64.0,60.0,57.0,70.0,59.0,Good,Siblings,5000-10000,Degree,Yes,2.5-3,Civil Servant,Yes,49.0,47.0,51.0,39.0,59.0
+F,19.0,50.0,42.0,48.0,35.0,53.0,52.0,50.0,61.0,62.0,53.0,Good,Mother and Father,10000-20000,High School,No,3-3.5,Trading,Yes,36.0,46.0,50.0,47.0,57.0
+F,19.0,52.0,44.0,49.0,43.0,64.0,62.0,53.0,60.0,69.0,60.0,Good,Mother and Father,Less Than 5000,High School,Yes,3-3.5,Trading,Yes,51.0,38.0,54.0,38.0,42.0
+F,17.0,50.0,50.0,36.0,39.0,48.0,61.0,50.0,50.0,63.0,63.0,Excellent,Mother and Father,5000-10000,High SchoolDropout,Yes,3-3.5,Military,Yes,45.0,40.0,47.0,43.0,58.0
+F,17.0,50.0,40.0,56.0,55.0,65.0,73.0,57.0,62.0,68.0,65.0,Good,Mother and Father,Less Than 5000,Masters,Yes,2.5-3,Civil Servant,Yes,45.0,47.0,48.0,47.0,52.0
+M,17.0,53.0,63.0,58.0,43.0,78.0,61.0,61.0,57.0,67.0,72.0,Excellent,Mother and Father,Less Than 5000,High School,Yes,3-3.5,Trading,Yes,46.0,39.0,42.0,41.0,71.0
+F,15.0,50.0,52.0,41.0,42.0,54.0,73.0,53.0,61.0,70.0,67.0,Good,Mother and Father,5000-10000,No Education,Yes,3-3.5,Civil Servant,Yes,51.0,45.0,46.0,49.0,63.0
+F,18.0,54.0,58.0,49.0,56.0,61.0,62.0,51.0,61.0,73.0,56.0,Good,Mother and Father,5000-10000,Diploma,No,2.5-3,Trading,Yes,54.0,45.0,49.0,50.0,54.0
+M,17.0,55.0,44.0,53.0,44.0,53.0,72.0,69.0,48.0,65.0,68.0,Good,Mother and Father,5000-10000,Masters,No,3-3.5,Military,Yes,51.0,43.0,43.0,47.0,68.0
+F,17.0,52.0,53.0,61.0,47.0,81.0,73.0,64.0,61.0,71.0,70.0,Good,Mother Only,5000-10000,High School,Yes,2.5-3,Trading,Yes,52.0,39.0,46.0,42.0,66.0
+F,17.0,78.0,91.0,81.0,78.0,80.0,90.0,85.0,88.0,88.0,85.0,Very Good,Mother and Father,Less Than 5000,No Education,No,3.5-4,Civil Servant,Yes,70.0,71.0,63.0,63.0,72.0
+F,16.0,63.0,59.0,57.0,47.0,69.0,71.0,67.0,56.0,72.0,77.0,Very Good,Mother and Father,Less Than 5000,No Education,No,3-3.5,Civil Servant,Yes,50.0,41.0,47.0,42.0,70.0
+F,16.0,59.0,56.0,58.0,47.0,69.0,60.0,58.0,29.0,68.0,71.0,Very Good,Mother and Father,Less Than 5000,High School,No,3-3.5,Trading,Yes,44.0,42.0,46.0,42.0,69.0
+M,17.0,68.0,80.0,67.0,77.0,82.0,86.0,59.0,75.0,77.0,80.0,Satisfactory,Mother and Father,10000-20000,Degree,No,3-3.5,Civil Servant,Yes,76.0,61.0,62.0,67.0,81.0
+M,16.0,78.0,78.0,70.0,76.0,86.0,83.0,77.0,73.0,84.0,81.0,Good,Mother and Father,5000-10000,High School,No,3.5-4,Trading,Yes,76.0,64.0,68.0,58.0,81.0
+F,18.0,54.0,62.0,50.0,47.0,65.0,68.0,57.0,67.0,68.0,69.0,Good,Mother Only,Less Than 5000,Masters,No,2.5-3,Artisan,No,44.0,40.0,51.0,48.0,65.0
+F,17.0,47.0,53.0,54.0,38.0,57.0,47.0,57.0,46.0,63.0,75.0,Good,Mother and Father,10000-20000,Masters,No,3-3.5,Civil Servant,Yes,51.0,50.0,47.0,38.0,51.0
+F,19.0,53.0,54.0,59.0,41.0,61.0,67.0,55.0,47.0,60.0,64.0,Good,Mother and Father,Less Than 5000,High SchoolDropout,Yes,3-3.5,Civil Servant,Yes,44.0,42.0,48.0,43.0,63.0
+M,17.0,57.0,60.0,52.0,42.0,69.0,60.0,58.0,53.0,62.0,70.0,Good,Mother Only,Less Than 5000,High School,No,3-3.5,Artisan,Yes,44.0,37.0,42.0,49.0,76.0
+M,18.0,33.0,43.0,39.0,41.0,42.0,57.0,42.0,40.0,66.0,48.0,Good,Mother and Father,Less Than 5000,No Education,Yes,3-3.5,Trading,Yes,35.0,48.0,42.0,40.0,37.0
+M,17.0,70.0,76.0,69.0,81.0,87.0,82.0,63.0,76.0,81.0,82.0,Excellent,Mother Only,Less Than 5000,High School,No,3.5-4,Civil Servant,Yes,72.0,52.0,70.0,63.0,85.0
+M,17.0,55.0,52.0,69.0,48.0,70.0,73.0,71.0,74.0,72.0,87.0,Very Good,Mother Only,5000-10000,Degree,Yes,3.5-4,Civil Servant,Yes,56.0,44.0,47.0,47.0,72.0
+F,17.0,62.0,65.0,62.0,61.0,64.0,56.0,63.0,68.0,67.0,77.0,Very Good,Mother Only,10000-20000,PhD,Yes,3-3.5,Trading,Yes,52.0,49.0,50.0,43.0,68.0
+F,16.0,46.0,50.0,46.0,62.0,47.0,66.0,64.0,48.0,65.0,73.0,Very Good,Mother Only,10000-20000,Masters,Yes,3-3.5,Artisan,Yes,41.0,46.0,43.0,36.0,65.0
+F,17.0,54.0,60.0,59.0,58.0,65.0,69.0,59.0,57.0,76.0,75.0,Excellent,Mother and Father,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,40.0,40.0,38.0,49.0,72.0
+F,16.0,45.0,64.0,59.0,55.0,46.0,74.0,63.0,63.0,71.0,70.0,Very Good,Mother Only,10000-20000,Masters,No,3.5-4,Artisan,Yes,63.0,45.0,48.0,45.0,69.0
+F,17.0,50.0,55.0,56.0,54.0,38.0,58.0,66.0,53.0,67.0,62.0,Satisfactory,Mother Only,5000-10000,High School,Yes,3.5-4,Civil Servant,Yes,51.0,44.0,45.0,42.0,61.0
+F,18.0,57.0,50.0,65.0,66.0,71.0,66.0,63.0,62.0,74.0,70.0,Very Good,Mother and Father,Less Than 5000,High School,No,2.5-3,Civil Servant,Yes,61.0,50.0,60.0,67.0,62.0
+F,16.0,44.0,62.0,73.0,56.0,71.0,65.0,82.0,74.0,63.0,75.0,Very Good,Mother and Father,Less Than 5000,High School,No,2.5-3,Trading,Yes,51.0,50.0,55.0,60.0,47.0
+F,18.0,54.0,57.0,61.0,57.0,52.0,50.0,47.0,66.0,56.0,66.0,Good,Mother Only,Less Than 5000,High School,Yes,3-3.5,Civil Servant,Yes,52.0,42.0,40.0,44.0,35.0
+M,16.0,46.0,48.0,61.0,45.0,50.0,55.0,55.0,67.0,55.0,60.0,Good,Mother and Father,Less Than 5000,Degree,No,3-3.5,Civil Servant,Yes,50.0,33.0,37.0,48.0,60.0
+F,17.0,50.0,57.0,56.0,56.0,49.0,47.0,55.0,64.0,60.0,68.0,Good,Mother and Father,Less Than 5000,No Education,Yes,3-3.5,Civil Servant,Yes,46.0,35.0,42.0,53.0,52.0
+M,18.0,51.0,53.0,45.0,47.0,49.0,46.0,45.0,58.0,53.0,62.0,Satisfactory,Mother and Father,Less Than 5000,PhD,Yes,2.5-3,Military,Yes,47.0,36.0,40.0,45.0,76.0
+F,18.0,55.0,55.0,61.0,54.0,69.0,54.0,51.0,59.0,56.0,60.0,Good,Mother and Father,Less Than 5000,High SchoolDropout,No,2.5-3,Civil Servant,Yes,53.0,39.0,49.0,54.0,44.0
+M,17.0,51.0,57.0,65.0,71.0,77.0,54.0,73.0,60.0,77.0,78.0,Good,Mother Only,Less Than 5000,High School,Yes,2.5-3,Military,Yes,61.0,48.0,53.0,62.0,59.0
+M,17.0,52.0,37.0,46.0,24.0,40.0,38.0,46.0,68.0,45.0,67.0,Good,Mother and Father,Less Than 5000,Degree,No,3-3.5,Civil Servant,Yes,45.0,36.0,22.0,51.0,63.0
+F,17.0,51.0,54.0,62.0,52.0,46.0,60.0,49.0,55.0,54.0,49.0,Good,Mother and Father,Less Than 5000,Degree,No,2.5-3,Civil Servant,Yes,58.0,46.0,43.0,57.0,61.0
+F,17.0,52.0,46.0,68.0,73.0,49.0,43.0,47.0,77.0,65.0,57.0,Very Good,Mother and Father,10000-20000,Masters,Yes,2.5-3,Civil Servant,Yes,52.0,38.0,47.0,50.0,56.0
+F,18.0,61.0,64.0,72.0,66.0,85.0,70.0,71.0,66.0,81.0,77.0,Good,Mother and Father,Less Than 5000,Masters,No,2.5-3,Artisan,Yes,52.0,50.0,71.0,62.0,61.0
+M,17.0,67.0,67.0,76.0,60.0,63.0,67.0,63.0,65.0,69.0,69.0,Very Good,Mother and Father,Less Than 5000,No Education,No,3-3.5,Civil Servant,Yes,59.0,47.0,46.0,52.0,68.0
+F,19.0,64.0,52.0,54.0,40.0,47.0,60.0,52.0,57.0,56.0,66.0,Very Good,Mother and Father,Less Than 5000,Masters,Yes,2.5-3,Civil Servant,Yes,50.0,40.0,43.0,54.0,60.0
+F,17.0,70.0,52.0,53.0,32.0,58.0,53.0,50.0,55.0,65.0,64.0,Good,Mother Only,5000-10000,Masters,No,2.5-3,Military,Yes,44.0,38.0,40.0,44.0,66.0
+F,16.0,50.0,50.0,57.0,40.0,46.0,52.0,44.0,61.0,66.0,66.0,Good,Mother and Father,5000-10000,Masters,Yes,2.5-3,Artisan,No,45.0,38.0,39.0,54.0,49.0
+F,17.0,47.0,45.0,55.0,35.0,36.0,51.0,48.0,49.0,52.0,60.0,Good,Father Only,Less Than 5000,High School,No,3-3.5,Civil Servant,Yes,54.0,41.0,47.0,56.0,38.0
+F,16.0,60.0,46.0,57.0,39.0,52.0,53.0,55.0,53.0,63.0,57.0,Good,Father Only,Less Than 5000,High School,No,3-3.5,Trading,Yes,54.0,41.0,42.0,46.0,47.0
+M,17.0,65.0,51.0,62.0,47.0,55.0,64.0,45.0,68.0,38.0,61.0,Good,Mother and Father,5000-10000,Masters,Yes,3-3.5,Trading,Yes,50.0,33.0,35.0,43.0,68.0
+M,17.0,57.0,59.0,62.0,54.0,65.0,56.0,60.0,70.0,51.0,60.0,Very Good,Mother Only,Less Than 5000,Diploma,Yes,2.5-3,Civil Servant,Yes,51.0,38.0,47.0,56.0,50.0
+M,17.0,61.0,58.0,70.0,51.0,53.0,65.0,54.0,58.0,52.0,63.0,Good,Mother and Father,5000-10000,PhD,Yes,3-3.5,Artisan,Yes,52.0,31.0,49.0,51.0,69.0
+F,21.0,54.0,59.0,55.0,38.0,57.0,59.0,51.0,68.0,40.0,63.0,Very Good,Mother and Father,Less Than 5000,Masters,Yes,3-3.5,Trading,Yes,41.0,30.0,50.0,50.0,38.0
+F,17.0,63.0,50.0,57.0,44.0,47.0,56.0,58.0,54.0,41.0,61.0,Very Good,Mother and Father,Less Than 5000,No Education,Yes,2.5-3,Civil Servant,Yes,51.0,41.0,52.0,57.0,61.0
+F,16.0,66.0,50.0,56.0,46.0,66.0,65.0,58.0,66.0,54.0,66.0,Very Good,Mother and Father,Less Than 5000,Masters,No,3-3.5,Trading,Yes,52.0,41.0,51.0,55.0,32.0
+F,17.0,47.0,50.0,48.0,36.0,54.0,61.0,50.0,49.0,50.0,61.0,Very Good,Mother Only,5000-10000,High School,Yes,2.5-3,Trading,Yes,53.0,35.0,44.0,47.0,51.0
+F,18.0,57.0,58.0,58.0,41.0,55.0,56.0,51.0,44.0,50.0,64.0,Very Good,Mother Only,More Than 20000,High SchoolDropout,No,2.5-3,Trading,Yes,55.0,44.0,39.0,46.0,60.0
+M,19.0,53.0,40.0,53.0,25.0,53.0,58.0,53.0,53.0,48.0,53.0,Very Good,Mother Only,Less Than 5000,High School,No,2.5-3,Trading,Yes,42.0,35.0,38.0,52.0,72.0
+F,17.0,43.0,54.0,55.0,34.0,50.0,58.0,49.0,54.0,44.0,60.0,Excellent,Mother Only,Less Than 5000,Masters,Yes,2.5-3,Civil Servant,Yes,45.0,34.0,56.0,51.0,48.0
+M,17.0,56.0,73.0,86.0,53.0,81.0,73.0,88.0,74.0,72.0,81.0,Good,Mother and Father,Less Than 5000,No Education,Yes,2.5-3,Trading,Yes,87.0,70.0,79.0,87.0,87.0
+M,18.0,56.0,73.0,86.0,53.0,81.0,73.0,88.0,74.0,72.0,81.0,Very Good,Father Only,Less Than 5000,No Education,No,2.5-3,Civil Servant,No,62.0,56.0,65.0,63.0,54.0
+F,18.0,53.0,36.0,51.0,37.0,39.0,41.0,52.0,54.0,37.0,61.0,Very Good,Mother Only,Less Than 5000,No Education,No,2.5-3,Trading,Yes,52.0,37.0,52.0,58.0,40.0
+F,18.0,51.0,45.0,50.0,40.0,46.0,55.0,54.0,69.0,40.0,76.0,Good,Mother and Father,Less Than 5000,Masters,No,3-3.5,Military,Yes,50.0,25.0,43.0,51.0,58.0
+M,16.0,91.0,96.0,93.0,87.0,95.0,94.0,96.0,93.0,95.0,95.0,Very Good,Mother Only,Less Than 5000,No Education,No,3.5-4,Civil Servant,Yes,88.0,82.0,87.0,91.0,92.0
+M,18.0,48.0,47.0,53.0,37.0,54.0,68.0,49.0,69.0,47.0,61.0,Good,Mother Only,Less Than 5000,High School,No,3-3.5,Trading,Yes,51.0,34.0,42.0,47.0,71.0
+F,16.0,76.0,48.0,57.0,43.0,56.0,70.0,67.0,70.0,70.0,71.0,Excellent,Mother and Father,Less Than 5000,Masters,Yes,2.5-3,Civil Servant,Yes,59.0,41.0,45.0,45.0,59.0
+F,18.0,55.0,45.0,52.0,37.0,49.0,48.0,54.0,66.0,50.0,64.0,Very Good,Mother and Father,Less Than 5000,No Education,Yes,3-3.5,Trading,Yes,52.0,52.0,42.0,50.0,60.0
+F,17.0,57.0,59.0,50.0,61.0,60.0,57.0,51.0,53.0,41.0,63.0,Good,Mother Only,Less Than 5000,Diploma,Yes,2.5-3,Military,Yes,56.0,38.0,45.0,55.0,62.0
+F,21.0,39.0,37.0,43.0,35.0,46.0,61.0,55.0,45.0,49.0,62.0,Very Good,Mother Only,5000-10000,High SchoolDropout,No,3.5-4,Civil Servant,Yes,70.0,36.0,48.0,45.0,76.0
+F,17.0,57.0,75.0,78.0,50.0,73.0,76.0,70.0,76.0,71.0,72.0,Very Good,Mother Only,Less Than 5000,High SchoolDropout,No,3-3.5,Trading,Yes,69.0,38.0,61.0,61.0,60.0
+M,18.0,74.0,60.0,71.0,64.0,74.0,75.0,54.0,65.0,58.0,73.0,Excellent,Mother and Father,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,79.0,44.0,61.0,54.0,68.0
+F,18.0,48.0,52.0,48.0,34.0,41.0,45.0,47.0,50.0,43.0,55.0,Very Good,Mother and Father,Less Than 5000,High School,No,2.5-3,Civil Servant,Yes,51.0,34.0,47.0,47.0,67.0
+F,21.0,50.0,39.0,49.0,37.0,49.0,67.0,46.0,47.0,45.0,56.0,Very Good,Mother and Father,Less Than 5000,High School,Yes,2.5-3,Trading,Yes,45.0,38.0,47.0,41.0,60.0
+F,19.0,41.0,46.0,44.0,33.0,51.0,56.0,50.0,55.0,43.0,62.0,Good,Mother and Father,Less Than 5000,Degree,No,2.5-3,Civil Servant,Yes,29.0,29.0,45.0,49.0,64.0
+F,18.0,40.0,50.0,47.0,41.0,37.0,55.0,46.0,47.0,37.0,57.0,Very Good,Mother and Father,Less Than 5000,High School,Yes,3-3.5,Trading,Yes,52.0,32.0,43.0,46.0,80.0
+F,16.0,70.0,54.0,72.0,48.0,71.0,84.0,63.0,56.0,59.0,67.0,Very Good,Mother and Father,5000-10000,High School,Yes,3-3.5,Trading,Yes,67.0,41.0,57.0,58.0,66.0
+F,21.0,43.0,50.0,47.0,41.0,58.0,50.0,46.0,43.0,46.0,55.0,Very Good,Mother and Father,10000-20000,No Education,Yes,2.5-3,Artisan,Yes,60.0,40.0,47.0,43.0,67.0
+M,17.0,71.0,65.0,67.0,60.0,80.0,85.0,66.0,56.0,65.0,82.0,Good,Mother and Father,Less Than 5000,No Education,No,3-3.5,Civil Servant,Yes,76.0,47.0,61.0,62.0,57.0
+F,17.0,40.0,35.0,44.0,45.0,72.0,57.0,47.0,52.0,47.0,57.0,Very Good,Mother and Father,Less Than 5000,No Education,Yes,3-3.5,Civil Servant,Yes,60.0,36.0,46.0,43.0,74.0
+F,17.0,43.0,47.0,64.0,30.0,69.0,54.0,57.0,53.0,45.0,43.0,Good,Siblings,5000-10000,Diploma,No,2.5-3,Civil Servant,Yes,61.0,38.0,50.0,43.0,79.0
+M,20.0,36.0,54.0,51.0,38.0,59.0,35.0,47.0,58.0,40.0,51.0,Very Good,Mother and Father,10000-20000,High SchoolDropout,No,3-3.5,Civil Servant,Yes,46.0,36.0,44.0,43.0,74.0
+M,19.0,59.0,70.0,75.0,76.0,80.0,83.0,68.0,69.0,61.0,87.0,Excellent,Mother Only,Less Than 5000,No Education,No,3.5-4,Trading,Yes,64.0,40.0,61.0,59.0,60.0
+F,17.0,40.0,50.0,48.0,52.0,60.0,65.0,53.0,49.0,53.0,67.0,Very Good,Siblings,Less Than 5000,Degree,Yes,2.5-3,Civil Servant,Yes,53.0,41.0,49.0,53.0,83.0
+F,18.0,48.0,47.0,45.0,38.0,69.0,50.0,55.0,50.0,52.0,52.0,Good,Mother and Father,Less Than 5000,Masters,Yes,3-3.5,Civil Servant,Yes,49.0,43.0,43.0,51.0,83.0
+F,17.0,38.0,51.0,59.0,38.0,69.0,54.0,48.0,50.0,51.0,61.0,Good,Mother Only,5000-10000,High School,Yes,2.5-3,Trading,Yes,61.0,47.0,50.0,52.0,86.0
+F,17.0,44.0,42.0,42.0,44.0,62.0,56.0,50.0,50.0,44.0,58.0,Good,Mother and Father,Less Than 5000,No Education,No,2.5-3,Artisan,Yes,33.0,34.0,37.0,57.0,80.0
+F,17.0,40.0,46.0,45.0,40.0,50.0,37.0,54.0,52.0,40.0,55.0,Good,Mother Only,5000-10000,High SchoolDropout,Yes,2.5-3,Trading,Yes,47.0,36.0,45.0,53.0,79.0
+M,17.0,51.0,56.0,68.0,63.0,87.0,72.0,48.0,47.0,67.0,83.0,Very Good,Mother Only,Less Than 5000,No Education,Yes,2.5-3,Trading,Yes,64.0,39.0,64.0,63.0,86.0
+F,16.0,45.0,54.0,42.0,30.0,53.0,51.0,35.0,54.0,31.0,62.0,Very Good,Mother and Father,5000-10000,Diploma,Yes,3.5-4,Civil Servant,Yes,24.0,23.0,39.0,47.0,59.0
+F,17.0,38.0,47.0,46.0,40.0,44.0,38.0,40.0,60.0,41.0,45.0,Good,Mother and Father,5000-10000,Diploma,Yes,3.5-4,Civil Servant,Yes,35.0,18.0,47.0,44.0,56.0
+F,17.0,47.0,50.0,50.0,33.0,69.0,61.0,54.0,68.0,56.0,61.0,Very Good,Mother and Father,Less Than 5000,High SchoolDropout,Yes,2.5-3,Civil Servant,Yes,62.0,46.0,39.0,53.0,79.0
+F,18.0,38.0,38.0,45.0,35.0,38.0,42.0,49.0,58.0,42.0,53.0,Satisfactory,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,40.0,29.0,31.0,45.0,69.0
+M,17.0,62.0,72.0,83.0,75.0,83.0,74.0,75.0,70.0,71.0,80.0,Good,Mother Only,Less Than 5000,Degree,Yes,3.5-4,Civil Servant,Yes,60.0,47.0,57.0,52.0,88.0
+M,18.0,50.0,42.0,51.0,34.0,57.0,61.0,56.0,48.0,47.0,52.0,Good,Mother Only,Less Than 5000,Masters,Yes,3.5-4,Civil Servant,Yes,55.0,24.0,42.0,42.0,64.0
+F,18.0,47.0,54.0,78.0,48.0,69.0,72.0,66.0,65.0,63.0,71.0,Very Good,Mother Only,Less Than 5000,No Education,No,3-3.5,Military,Yes,43.0,38.0,48.0,53.0,75.0
+M,18.0,67.0,78.0,81.0,68.0,82.0,72.0,63.0,59.0,54.0,70.0,Good,Father Only,Less Than 5000,No Education,No,3-3.5,Civil Servant,No,79.0,52.0,64.0,73.0,65.0
+F,16.0,34.0,42.0,49.0,35.0,66.0,53.0,60.0,67.0,67.0,64.0,Very Good,Mother and Father,5000-10000,High School,Yes,2.5-3,Civil Servant,Yes,49.0,45.0,45.0,57.0,77.0
+M,17.0,45.0,38.0,38.0,40.0,50.0,57.0,42.0,53.0,61.0,59.0,Good,Mother and Father,5000-10000,Masters,No,3-3.5,Civil Servant,Yes,68.0,39.0,35.0,52.0,76.0
+M,17.0,52.0,66.0,63.0,66.0,75.0,62.0,59.0,71.0,65.0,84.0,Very Good,Mother and Father,Less Than 5000,High SchoolDropout,No,3-3.5,Trading,Yes,52.0,44.0,50.0,63.0,64.0
+M,18.0,50.0,61.0,65.0,62.0,80.0,56.0,69.0,76.0,68.0,74.0,Very Good,Mother and Father,Less Than 5000,No Education,No,3-3.5,Trading,Yes,59.0,46.0,52.0,63.0,85.0
+F,17.0,44.0,42.0,52.0,47.0,45.0,41.0,62.0,55.0,51.0,40.0,Good,Siblings,Less Than 5000,Degree,Yes,3-3.5,Trading,Yes,25.0,32.0,46.0,47.0,79.0
+M,19.0,46.0,53.0,49.0,44.0,56.0,48.0,54.0,60.0,53.0,52.0,Excellent,Mother Only,5000-10000,Diploma,Yes,3-3.5,Artisan,Yes,31.0,28.0,41.0,44.0,66.0
+F,17.0,42.0,52.0,47.0,39.0,55.0,44.0,53.0,53.0,50.0,52.0,Excellent,Mother Only,5000-10000,Masters,No,2.5-3,Artisan,Yes,32.0,29.0,38.0,45.0,63.0
+M,17.0,42.0,53.0,36.0,32.0,51.0,43.0,54.0,60.0,51.0,54.0,Good,Mother and Father,Less Than 5000,Degree,Yes,2.5-3,Civil Servant,Yes,58.0,41.0,40.0,52.0,70.0
+F,18.0,50.0,51.0,50.0,50.0,58.0,50.0,59.0,58.0,52.0,59.0,Good,Mother Only,Less Than 5000,Degree,Yes,3-3.5,Artisan,Yes,31.0,33.0,42.0,46.0,37.0
+M,17.0,41.0,57.0,42.0,39.0,66.0,47.0,51.0,51.0,50.0,45.0,Good,Mother Only,Less Than 5000,High School,Yes,2.5-3,Artisan,Yes,52.0,36.0,37.0,48.0,73.0
+M,17.0,42.0,43.0,50.0,37.0,42.0,60.0,41.0,67.0,51.0,60.0,Good,Mother Only,Less Than 5000,High School,Yes,3-3.5,Civil Servant,Yes,53.0,43.0,40.0,44.0,71.0
+F,17.0,50.0,45.0,50.0,32.0,71.0,52.0,48.0,55.0,43.0,72.0,Good,Mother and Father,Less Than 5000,Diploma,Yes,2-2.5,Civil Servant,Yes,50.0,28.0,40.0,49.0,50.0
+F,16.0,50.0,67.0,58.0,56.0,69.0,63.0,69.0,67.0,68.0,76.0,Very Good,Mother Only,Less Than 5000,High School,Yes,2.5-3,Trading,Yes,57.0,52.0,58.0,53.0,57.0
+F,17.0,64.0,41.0,62.0,28.0,67.0,67.0,38.0,55.0,47.0,74.0,Excellent,Mother Only,Less Than 5000,Diploma,No,3.5-4,Civil Servant,Yes,59.0,32.0,46.0,55.0,62.0
+M,16.0,47.0,43.0,48.0,40.0,53.0,53.0,48.0,58.0,54.0,75.0,Very Good,Mother and Father,Less Than 5000,High SchoolDropout,Yes,2.5-3,Civil Servant,Yes,53.0,38.0,45.0,48.0,80.0
+F,16.0,37.0,42.0,43.0,29.0,59.0,38.0,42.0,56.0,51.0,78.0,Good,Mother and Father,5000-10000,Diploma,No,2.5-3,Civil Servant,Yes,51.0,27.0,43.0,43.0,61.0
+F,17.0,55.0,46.0,47.0,43.0,58.0,50.0,46.0,59.0,40.0,70.0,Good,Mother Only,Less Than 5000,No Education,Yes,2.5-3,Civil Servant,Yes,36.0,17.0,42.0,46.0,31.0
+F,16.0,82.0,50.0,60.0,63.0,68.0,87.0,54.0,70.0,62.0,75.0,Excellent,Mother and Father,5000-10000,High School,Yes,3-3.5,Trading,Yes,73.0,41.0,45.0,57.0,69.0
+M,16.0,64.0,71.0,74.0,75.0,80.0,79.0,66.0,85.0,76.0,90.0,Good,Siblings,Less Than 5000,No Education,No,3-3.5,Civil Servant,Yes,67.0,53.0,74.0,68.0,79.0
+F,16.0,50.0,60.0,57.0,51.0,60.0,63.0,54.0,73.0,55.0,83.0,Very Good,Mother and Father,Less Than 5000,No Education,No,3-3.5,Civil Servant,Yes,58.0,60.0,51.0,54.0,62.0
+M,17.0,57.0,57.0,75.0,71.0,77.0,70.0,74.0,71.0,66.0,84.0,Very Good,Mother and Father,Less Than 5000,High School,Yes,2.5-3,Civil Servant,Yes,66.0,59.0,68.0,73.0,72.0
+F,17.0,37.0,45.0,47.0,34.0,53.0,48.0,46.0,63.0,51.0,68.0,Very Good,Mother Only,Less Than 5000,High School,No,2-2.5,Trading,Yes,49.0,36.0,41.0,47.0,45.0
+F,17.0,43.0,34.0,49.0,48.0,47.0,42.0,48.0,53.0,34.0,76.0,Good,Mother and Father,Less Than 5000,High School,Yes,3-3.5,Trading,Yes,38.0,34.0,35.0,42.0,52.0
+M,18.0,33.0,42.0,44.0,40.0,53.0,42.0,46.0,62.0,39.0,71.0,Very Good,Mother and Father,5000-10000,High School,No,3-3.5,Civil Servant,Yes,25.0,31.0,34.0,44.0,66.0
+F,17.0,56.0,52.0,53.0,59.0,70.0,70.0,55.0,70.0,61.0,79.0,Very Good,Mother and Father,5000-10000,Masters,No,3-3.5,Artisan,Yes,57.0,47.0,60.0,46.0,66.0
+F,18.0,54.0,42.0,53.0,44.0,64.0,50.0,41.0,39.0,40.0,66.0,Very Good,Mother and Father,5000-10000,High School,No,2.5-3,Trading,Yes,49.0,37.0,34.0,53.0,58.0
+F,17.0,69.0,79.0,82.0,69.0,82.0,74.0,86.0,83.0,79.0,91.0,Excellent,Mother and Father,5000-10000,High School,No,3-3.5,Civil Servant,Yes,75.0,69.0,70.0,79.0,87.0
+M,18.0,81.0,98.0,94.0,91.0,98.0,98.0,98.0,95.0,96.0,94.0,Excellent,Siblings,Less Than 5000,Degree,No,3.5-4,Trading,Yes,86.0,99.0,94.0,89.0,87.0
+F,17.0,55.0,45.0,44.0,48.0,62.0,53.0,59.0,44.0,40.0,52.0,Good,Father Only,Less Than 5000,High School,Yes,3-3.5,Civil Servant,Yes,49.0,32.0,37.0,50.0,63.0
+M,17.0,56.0,33.0,62.0,45.0,66.0,37.0,51.0,51.0,43.0,58.0,Excellent,Mother and Father,5000-10000,Diploma,Yes,2.5-3,Military,Yes,31.0,36.0,45.0,49.0,68.0
+F,17.0,50.0,45.0,55.0,51.0,57.0,58.0,46.0,57.0,65.0,69.0,Excellent,Mother and Father,Less Than 5000,No Education,Yes,3-3.5,Trading,Yes,44.0,42.0,46.0,57.0,55.0
+F,17.0,55.0,37.0,43.0,34.0,60.0,52.0,47.0,45.0,44.0,53.0,Satisfactory,Mother and Father,Less Than 5000,Degree,Yes,2.5-3,Civil Servant,Yes,40.0,46.0,50.0,45.0,43.0
+F,16.0,59.0,36.0,53.0,29.0,39.0,38.0,40.0,45.0,41.0,48.0,Good,Mother and Father,Less Than 5000,No Education,No,2.5-3,Trading,Yes,37.0,20.0,40.0,40.0,31.0
+F,16.0,58.0,36.0,43.0,31.0,58.0,52.0,53.0,42.0,51.0,53.0,Good,Mother and Father,Less Than 5000,Degree,No,2.5-3,Artisan,Yes,42.0,40.0,45.0,50.0,48.0
+F,16.0,69.0,73.0,93.0,72.0,92.0,87.0,83.0,80.0,77.0,90.0,Good,Mother and Father,Less Than 5000,High School,No,3-3.5,Civil Servant,Yes,78.0,58.0,75.0,75.0,75.0
+F,17.0,47.0,55.0,67.0,47.0,70.0,50.0,46.0,55.0,60.0,76.0,Good,Mother and Father,Less Than 5000,No Education,No,2.5-3,Artisan,Yes,57.0,37.0,60.0,59.0,62.0
+M,17.0,53.0,48.0,45.0,36.0,65.0,39.0,40.0,49.0,60.0,52.0,Excellent,Mother and Father,Less Than 5000,No Education,No,2.5-3,Civil Servant,No,40.0,34.0,39.0,46.0,59.0
+F,16.0,49.0,52.0,40.0,28.0,64.0,46.0,43.0,38.0,40.0,65.0,Good,Siblings,Less Than 5000,No Education,Yes,2.5-3,Civil Servant,Yes,41.0,24.0,27.0,44.0,42.0
+F,17.0,64.0,53.0,71.0,58.0,80.0,75.0,51.0,65.0,69.0,86.0,Excellent,Father Only,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,69.0,42.0,51.0,58.0,71.0
+F,17.0,56.0,47.0,39.0,34.0,65.0,60.0,49.0,44.0,43.0,58.0,Excellent,Mother and Father,5000-10000,Degree,No,2-2.5,Artisan,Yes,48.0,29.0,32.0,42.0,46.0
+F,16.0,65.0,60.0,68.0,53.0,72.0,78.0,71.0,66.0,69.0,75.0,Good,Mother and Father,5000-10000,Degree,No,3-3.5,Civil Servant,Yes,71.0,46.0,56.0,57.0,55.0
+F,17.0,60.0,59.0,66.0,57.0,83.0,68.0,65.0,68.0,63.0,86.0,Good,Mother and Father,5000-10000,No Education,Yes,2.5-3,Trading,Yes,71.0,42.0,57.0,65.0,78.0
+M,17.0,60.0,52.0,74.0,66.0,86.0,62.0,45.0,67.0,70.0,76.0,Very Good,Mother and Father,5000-10000,Degree,Yes,3-3.5,Civil Servant,Yes,48.0,39.0,45.0,52.0,61.0
+M,18.0,67.0,86.0,82.0,67.0,91.0,90.0,79.0,71.0,74.0,88.0,Excellent,Mother Only,Less Than 5000,High School,No,3.5-4,Civil Servant,Yes,66.0,57.0,61.0,64.0,74.0
+F,17.0,60.0,51.0,68.0,62.0,70.0,68.0,52.0,55.0,58.0,53.0,Good,Mother and Father,5000-10000,Masters,No,3-3.5,Civil Servant,Yes,55.0,43.0,43.0,62.0,62.0
+F,17.0,55.0,61.0,51.0,42.0,62.0,48.0,53.0,46.0,50.0,62.0,Good,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Civil Servant,Yes,34.0,31.0,46.0,57.0,57.0
+F,17.0,50.0,52.0,52.0,41.0,70.0,48.0,49.0,52.0,46.0,69.0,Good,Mother and Father,Less Than 5000,No Education,No,2.5-3,Trading,Yes,35.0,37.0,50.0,51.0,48.0
+M,18.0,53.0,31.0,47.0,29.0,53.0,56.0,46.0,48.0,41.0,67.0,Good,Mother and Father,Less Than 5000,No Education,Yes,3.5-4,Civil Servant,Yes,35.0,31.0,36.0,48.0,54.0
+F,16.0,63.0,63.0,66.0,64.0,78.0,72.0,65.0,69.0,78.0,83.0,Good,Mother and Father,Less Than 5000,Degree,No,2.5-3,Trading,Yes,70.0,48.0,58.0,62.0,61.0
+M,17.0,53.0,38.0,48.0,38.0,43.0,35.0,47.0,40.0,45.0,64.0,Good,Mother and Father,Less Than 5000,No Education,Yes,3-3.5,Trading,Yes,25.0,35.0,34.0,41.0,58.0
+M,16.0,49.0,47.0,39.0,33.0,40.0,46.0,41.0,42.0,50.0,52.0,Good,Mother and Father,Less Than 5000,Degree,Yes,3-3.5,Artisan,Yes,35.0,37.0,38.0,53.0,66.0
+F,17.0,44.0,51.0,43.0,56.0,46.0,50.0,50.0,49.0,62.0,61.0,Very Good,Siblings,Less Than 5000,High SchoolDropout,Yes,2.5-3,Artisan,No,52.0,34.0,44.0,46.0,50.0
